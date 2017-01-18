@@ -1,0 +1,1719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packages>
+  <package name="libdb-4_5" version="4.5.20-95.39" arch="x86_64" type="rpm" size="480694">
+    <location>package-pool/libdb-4_5-4.5.20-95.39.x86_64.rpm</location>
+    <checksum type="sha1">de536713c9338f6bf95283d21055a70896ac51c8</checksum>
+  </package>
+  <package name="tcsh" version="6.15.00-93.35.1" arch="x86_64" type="rpm" size="339338">
+    <location>package-pool/tcsh-6.15.00-93.35.1.x86_64.rpm</location>
+    <checksum type="sha1">f0a58219c49255a4503b0f143ce830c70a229100</checksum>
+  </package>
+  <package name="readline-doc" version="5.2-147.14.22.1.7400.0.PTF.898880" arch="x86_64" type="rpm" size="138426">
+    <location>package-pool/readline-doc-5.2-147.14.22.1.7400.0.PTF.898880.x86_64.rpm</location>
+    <checksum type="sha1">396fe89463373e1cd57b6ff96c11baacb851593f</checksum>
+  </package>
+  <package name="vim-data" version="7.2-8.15.2" arch="x86_64" type="rpm" size="5755200">
+    <location>package-pool/vim-data-7.2-8.15.2.x86_64.rpm</location>
+    <checksum type="sha1">a618d3b2a3c3252d44c0f102af352fb3c47c9b86</checksum>
+  </package>
+  <package name="yast2-packager" version="2.17.98-0.5.73" arch="x86_64" type="rpm" size="365659">
+    <location>package-pool/yast2-packager-2.17.98-0.5.73.x86_64.rpm</location>
+    <checksum type="sha1">bd23c3d12e86d481917c391c52e29c950f5280d2</checksum>
+  </package>
+  <package name="perl-XML-Parser" version="2.36-1.18" arch="x86_64" type="rpm" size="235937">
+    <location>package-pool/perl-XML-Parser-2.36-1.18.x86_64.rpm</location>
+    <checksum type="sha1">af97aead3f530c61c2d5971a3b161ba5e1362ddb</checksum>
+  </package>
+  <package name="perl-Digest-SHA1" version="2.11-1.22" arch="x86_64" type="rpm" size="48489">
+    <location>package-pool/perl-Digest-SHA1-2.11-1.22.x86_64.rpm</location>
+    <checksum type="sha1">5a0ff96b642db5425db55a4131374d52c1433f10</checksum>
+  </package>
+  <package name="vlan" version="1.9-62.24.1" arch="x86_64" type="rpm" size="34146">
+    <location>package-pool/vlan-1.9-62.24.1.x86_64.rpm</location>
+    <checksum type="sha1">8851ff31b3a6cfc4894bfb2bf8513799cc865392</checksum>
+  </package>
+  <package name="apache2-mod_python" version="3.3.1-147.24.1" arch="x86_64" type="rpm" size="302120">
+    <location>package-pool/apache2-mod_python-3.3.1-147.24.1.x86_64.rpm</location>
+    <checksum type="sha1">cc356b3bee4bb84c2375338330630a0da5e9a496</checksum>
+  </package>
+  <package name="pth" version="2.0.7-102.22" arch="x86_64" type="rpm" size="220743">
+    <location>package-pool/pth-2.0.7-102.22.x86_64.rpm</location>
+    <checksum type="sha1">648d031f01e3c72901f85d250469e86a08a99dc3</checksum>
+  </package>
+  <package name="pciutils-ids" version="2011.11.24-0.4.1" arch="noarch" type="rpm" size="170447">
+    <location>package-pool/pciutils-ids-2011.11.24-0.4.1.noarch.rpm</location>
+    <checksum type="sha1">bf46fa2b06b56f9feec0f93c80a5cc0ed8a45201</checksum>
+  </package>
+  <package name="perl-X500-DN" version="0.29-78.22" arch="x86_64" type="rpm" size="14201">
+    <location>package-pool/perl-X500-DN-0.29-78.22.x86_64.rpm</location>
+    <checksum type="sha1">6cf03de62a3747f050cc1ff9b2952708f275b81d</checksum>
+  </package>
+  <package name="nfsidmap" version="0.20-1.20" arch="x86_64" type="rpm" size="23647">
+    <location>package-pool/nfsidmap-0.20-1.20.x86_64.rpm</location>
+    <checksum type="sha1">e84069f26764fe415b4c947bf9c0ce7f040941e0</checksum>
+  </package>
+  <package name="yast2-xml" version="2.16.1-1.23" arch="x86_64" type="rpm" size="51090">
+    <location>package-pool/yast2-xml-2.16.1-1.23.x86_64.rpm</location>
+    <checksum type="sha1">3e844e12a17b9016ea3568ee820f85165660f5fa</checksum>
+  </package>
+  <package name="ruby2.1-rubygem-nokogiri-1_5" version="1.5.11-1.8" arch="x86_64" type="rpm" size="174100">
+    <location>package-pool/ruby2.1-rubygem-nokogiri-1_5-1.5.11-1.8.x86_64.rpm</location>
+    <checksum type="sha1">d6a9ebd4232ba8c677658a165b61e4f45d0e4343</checksum>
+  </package>
+  <package name="logrotate" version="3.7.7-10.26.1" arch="x86_64" type="rpm" size="39119">
+    <location>package-pool/logrotate-3.7.7-10.26.1.x86_64.rpm</location>
+    <checksum type="sha1">05c36811ccb9cf52a4c7af5e4b1520c0f2410bfc</checksum>
+  </package>
+  <package name="zlib" version="1.2.3-106.34" arch="x86_64" type="rpm" size="42639">
+    <location>package-pool/zlib-1.2.3-106.34.x86_64.rpm</location>
+    <checksum type="sha1">c9fc38fb7d3be20055a6fbf39f23d040a2340911</checksum>
+  </package>
+  <package name="vmware-pyvmomi" version="5.5.0-0.0.4912136" arch="noarch" type="rpm" size="372225">
+    <location>package-pool/vmware-pyvmomi-5.5.0-0.0.4912136.noarch.rpm</location>
+    <checksum type="sha1">6bcbe26265c9c158552d4f05e135f44338743f2a</checksum>
+  </package>
+  <package name="libopenssl1_0_1" version="1.0.1i-1.vmw.3382080" arch="x86_64" type="rpm" size="1155072">
+    <location>package-pool/libopenssl1_0_1-1.0.1i-1.vmw.3382080.x86_64.rpm</location>
+    <checksum type="sha1">22cff892d1ebbcd94a20dc1f26b3160060c47efe</checksum>
+  </package>
+  <package name="util-linux" version="2.19.1-6.33.47.1" arch="x86_64" type="rpm" size="717173">
+    <location>package-pool/util-linux-2.19.1-6.33.47.1.x86_64.rpm</location>
+    <checksum type="sha1">9d13e7f9d1e50f2fe225b9c2f01f8eaa21c3049b</checksum>
+  </package>
+  <package name="vmware-tools-esx-kmods-default" version="0:10.0.0-1.sles11" arch="x86_64" type="rpm" size="2676">
+    <location>package-pool/vmware-tools-esx-kmods-default-10.0.0-1.sles11.x86_64.rpm</location>
+    <checksum type="sha1">e2b131bbd26b0126284656c6696aa720ca6427de</checksum>
+  </package>
+  <package name="python-argparse" version="1.2.1-2.5.65" arch="x86_64" type="rpm" size="42269">
+    <location>package-pool/python-argparse-1.2.1-2.5.65.x86_64.rpm</location>
+    <checksum type="sha1">370a4406b9e305594b4f0ae5352f57b2c06a366f</checksum>
+  </package>
+  <package name="mkinitrd" version="2.4.2-0.57.63.1" arch="x86_64" type="rpm" size="98094">
+    <location>package-pool/mkinitrd-2.4.2-0.57.63.1.x86_64.rpm</location>
+    <checksum type="sha1">2e1c2aabf337d5bde57ed73698066b3b32e90a96</checksum>
+  </package>
+  <package name="openldap2-client" version="2.4.26-0.16.1" arch="x86_64" type="rpm" size="165198">
+    <location>package-pool/openldap2-client-2.4.26-0.16.1.x86_64.rpm</location>
+    <checksum type="sha1">fa1d4773212f004ec2afb1eeaf569806d8724e7b</checksum>
+  </package>
+  <package name="libzio" version="0.9-5.77" arch="x86_64" type="rpm" size="10180">
+    <location>package-pool/libzio-0.9-5.77.x86_64.rpm</location>
+    <checksum type="sha1">3dd020e2efcb9116312f923b1990dd320064c83d</checksum>
+  </package>
+  <package name="libevent-1_4-2" version="1.4.5-24.21" arch="x86_64" type="rpm" size="65143">
+    <location>package-pool/libevent-1_4-2-1.4.5-24.21.x86_64.rpm</location>
+    <checksum type="sha1">e9493b8c441d4c924863e38e42114d1d315b7f0d</checksum>
+  </package>
+  <package name="yast2-ycp-ui-bindings" version="2.21.1-2.5.107" arch="x86_64" type="rpm" size="223108">
+    <location>package-pool/yast2-ycp-ui-bindings-2.21.1-2.5.107.x86_64.rpm</location>
+    <checksum type="sha1">96f2b794d5b8e606830b5e2eee410504dee87d05</checksum>
+  </package>
+  <package name="libgthread-2_0-0" version="2.22.5-0.8.10.2" arch="x86_64" type="rpm" size="40116">
+    <location>package-pool/libgthread-2_0-0-2.22.5-0.8.10.2.x86_64.rpm</location>
+    <checksum type="sha1">f054611716a0466d197e6c74cc3dac7f5e9c287b</checksum>
+  </package>
+  <package name="vmware-tools-foundation" version="0:10.0.0-1.sles11" arch="x86_64" type="rpm" size="127620">
+    <location>package-pool/vmware-tools-foundation-10.0.0-1.sles11.x86_64.rpm</location>
+    <checksum type="sha1">d18a5e1f8f5e27b1b6db0976c1ab4bb7300504e4</checksum>
+  </package>
+  <package name="vmware-tools-plugins-powerOps" version="0:10.0.0-1.sles11" arch="x86_64" type="rpm" size="7738">
+    <location>package-pool/vmware-tools-plugins-powerOps-10.0.0-1.sles11.x86_64.rpm</location>
+    <checksum type="sha1">22127156e0f454aa399650ba2d30409436f195bc</checksum>
+  </package>
+  <package name="freetype2" version="2.3.7-25.32.1" arch="x86_64" type="rpm" size="365582">
+    <location>package-pool/freetype2-2.3.7-25.32.1.x86_64.rpm</location>
+    <checksum type="sha1">5f3061f9d554c83da8781c17058dd63b6aaa7e06</checksum>
+  </package>
+  <package name="dbus-1-glib" version="0.76-34.22.1" arch="x86_64" type="rpm" size="52076">
+    <location>package-pool/dbus-1-glib-0.76-34.22.1.x86_64.rpm</location>
+    <checksum type="sha1">505e62b2d40758ea28b9ceb3bd55bb63052c34f2</checksum>
+  </package>
+  <package name="FZMingTiB" version="0.20040419-1.17" arch="noarch" type="rpm" size="5558966">
+    <location>package-pool/FZMingTiB-0.20040419-1.17.noarch.rpm</location>
+    <checksum type="sha1">a1332cc8da48bab64291c40992d37aeedda62fa6</checksum>
+  </package>
+  <package name="VMware-vpxd-agents-eesx" version="5.5.0-4935376" arch="x86_64" type="rpm" size="59167285">
+    <location>package-pool/VMware-vpxd-agents-eesx-5.5.0-4935376.x86_64.rpm</location>
+    <checksum type="sha1">d5d485aac88e2acc46a7d1ba43bf3ddcb8f467cd</checksum>
+  </package>
+  <package name="libmng" version="1.0.10-46.18" arch="x86_64" type="rpm" size="186560">
+    <location>package-pool/libmng-1.0.10-46.18.x86_64.rpm</location>
+    <checksum type="sha1">c9b743d3feb0b37445904b2e4ddca4fa6b5ab7d0</checksum>
+  </package>
+  <package name="pcsc-lite" version="1.4.102-1.37.3" arch="x86_64" type="rpm" size="161578">
+    <location>package-pool/pcsc-lite-1.4.102-1.37.3.x86_64.rpm</location>
+    <checksum type="sha1">e0fbcf5a470c7038560ab4526ad399a82f908d26</checksum>
+  </package>
+  <package name="perl-Config-IniFiles" version="2.39-1.22" arch="x86_64" type="rpm" size="38288">
+    <location>package-pool/perl-Config-IniFiles-2.39-1.22.x86_64.rpm</location>
+    <checksum type="sha1">6d8a77826040c0318b5b0bb317364e6e54e5d808</checksum>
+  </package>
+  <package name="module-init-tools" version="3.11.1-1.23.1" arch="x86_64" type="rpm" size="144235">
+    <location>package-pool/module-init-tools-3.11.1-1.23.1.x86_64.rpm</location>
+    <checksum type="sha1">6dbfe017798fcb94d42a35d353719688f2a73c3a</checksum>
+  </package>
+  <package name="libidn" version="1.10-3.18" arch="x86_64" type="rpm" size="227360">
+    <location>package-pool/libidn-1.10-3.18.x86_64.rpm</location>
+    <checksum type="sha1">e89eae8ecfd7ae4481efb37aceaa4904f46d086a</checksum>
+  </package>
+  <package name="libreadline5" version="5.2-147.14.22.1.7400.0.PTF.898880" arch="x86_64" type="rpm" size="106268">
+    <location>package-pool/libreadline5-5.2-147.14.22.1.7400.0.PTF.898880.x86_64.rpm</location>
+    <checksum type="sha1">325a17f01f4cc24abcb9e7b1484873ce681a007a</checksum>
+  </package>
+  <package name="ruby2.1-rubygem-libxml-ruby" version="2.8.0-1.8" arch="x86_64" type="rpm" size="455156">
+    <location>package-pool/ruby2.1-rubygem-libxml-ruby-2.8.0-1.8.x86_64.rpm</location>
+    <checksum type="sha1">dcbf3250557a9bace91f08a4914f4097edff47ff</checksum>
+  </package>
+  <package name="yast2-network" version="2.17.182.12-0.5.11" arch="x86_64" type="rpm" size="379511">
+    <location>package-pool/yast2-network-2.17.182.12-0.5.11.x86_64.rpm</location>
+    <checksum type="sha1">f6ca7199da33d5ac4565742bb739cc968530c3b9</checksum>
+  </package>
+  <package name="ruby2.1-rubygem-builder" version="3.2.2-24.15" arch="x86_64" type="rpm" size="55414">
+    <location>package-pool/ruby2.1-rubygem-builder-3.2.2-24.15.x86_64.rpm</location>
+    <checksum type="sha1">ee9e3c8fa69487b4ba5df5f647ab075cbea37e2d</checksum>
+  </package>
+  <package name="vmware-studio-appliance-config" version="2.6.0.2-170118042704" arch="noarch" type="rpm" size="12040">
+    <location>package-pool/vmware-studio-appliance-config_2.6.0.2-170118042704_noarch.rpm</location>
+    <checksum type="sha1">e4ce9010d52469a92601196af105c99a300a417a</checksum>
+  </package>
+  <package name="release-notes-SLES-for-VMware" version="11.2.0.50-0.6.1" arch="x86_64" type="rpm" size="118279">
+    <location>package-pool/release-notes-SLES-for-VMware-11.2.0.50-0.6.1.x86_64.rpm</location>
+    <checksum type="sha1">79a1b892ceab27977aa0d29a4c28475aae67ffa9</checksum>
+  </package>
+  <package name="limal" version="1.5.3-0.2.11" arch="x86_64" type="rpm" size="139757">
+    <location>package-pool/limal-1.5.3-0.2.11.x86_64.rpm</location>
+    <checksum type="sha1">254b30fb8759687dba3ee66e9aef0327ab97f8b9</checksum>
+  </package>
+  <package name="python27" version="2.7.8-1.vmw.2296212" arch="x86_64" type="rpm" size="19281000">
+    <location>package-pool/python27-2.7.8-1.vmw.2296212.x86_64.rpm</location>
+    <checksum type="sha1">9df741689b3eb498a3915e821e2ddacb23a22d33</checksum>
+  </package>
+  <package name="bootsplash" version="3.3-146.24.12" arch="x86_64" type="rpm" size="209298">
+    <location>package-pool/bootsplash-3.3-146.24.12.x86_64.rpm</location>
+    <checksum type="sha1">01765886f867c9e1e9d09c7f53ecd53ed1e4bd45</checksum>
+  </package>
+  <package name="terminfo-base" version="5.6-90.55" arch="x86_64" type="rpm" size="115775">
+    <location>package-pool/terminfo-base-5.6-90.55.x86_64.rpm</location>
+    <checksum type="sha1">e34c14a493f12559417ab39ab6dd9e322d996df5</checksum>
+  </package>
+  <package name="audit-libs" version="1.8-0.30.1" arch="x86_64" type="rpm" size="73123">
+    <location>package-pool/audit-libs-1.8-0.30.1.x86_64.rpm</location>
+    <checksum type="sha1">47f674d562c32597edaaeb414c6b7d9e268a8ee2</checksum>
+  </package>
+  <package name="ruby2.1-rubygem-highline" version="1.7.0-42.1" arch="x86_64" type="rpm" size="338898">
+    <location>package-pool/ruby2.1-rubygem-highline-1.7.0-42.1.x86_64.rpm</location>
+    <checksum type="sha1">b81a18bf7f3c31317738b67bbd6eafd0ac692db9</checksum>
+  </package>
+  <package name="libattr" version="2.4.43-1.18" arch="x86_64" type="rpm" size="11126">
+    <location>package-pool/libattr-2.4.43-1.18.x86_64.rpm</location>
+    <checksum type="sha1">ee285fdf424c1bce4718231037210f85a8ae4c90</checksum>
+  </package>
+  <package name="libacl" version="2.2.47-30.34.29" arch="x86_64" type="rpm" size="18035">
+    <location>package-pool/libacl-2.2.47-30.34.29.x86_64.rpm</location>
+    <checksum type="sha1">c7475890112f4df8c7b88615fdf25bb04bab4b11</checksum>
+  </package>
+  <package name="ruby2.1-rubygem-trollop" version="2.1.2-2.4" arch="x86_64" type="rpm" size="44756">
+    <location>package-pool/ruby2.1-rubygem-trollop-2.1.2-2.4.x86_64.rpm</location>
+    <checksum type="sha1">af61933444bdb9f7c3c3a3f5b7bc845cf0af6640</checksum>
+  </package>
+  <package name="atftp" version="0.7.0-135.16.16.1" arch="x86_64" type="rpm" size="65294">
+    <location>package-pool/atftp-0.7.0-135.16.16.1.x86_64.rpm</location>
+    <checksum type="sha1">a7421d3eebc8787e16424f819a5b62fa42ba8d1d</checksum>
+  </package>
+  <package name="grep" version="2.7-5.7.1" arch="x86_64" type="rpm" size="237286">
+    <location>package-pool/grep-2.7-5.7.1.x86_64.rpm</location>
+    <checksum type="sha1">4f4dc12817ab9a7a0132144a0b9330df8b03bba2</checksum>
+  </package>
+  <package name="libbz2-1" version="1.0.5-34.253.1" arch="x86_64" type="rpm" size="44644">
+    <location>package-pool/libbz2-1-1.0.5-34.253.1.x86_64.rpm</location>
+    <checksum type="sha1">864120b4a1d41dce255af6e726e64ae59fca5eb5</checksum>
+  </package>
+  <package name="polkit-default-privs" version="0.1_200812111413-3.6" arch="noarch" type="rpm" size="12027">
+    <location>package-pool/polkit-default-privs-0.1_200812111413-3.6.noarch.rpm</location>
+    <checksum type="sha1">8e5e918120e187a6e66bbf16c0e015278f3bfbf9</checksum>
+  </package>
+  <package name="lvm2" version="2.02.84-3.37.1" arch="x86_64" type="rpm" size="651741">
+    <location>package-pool/lvm2-2.02.84-3.37.1.x86_64.rpm</location>
+    <checksum type="sha1">cb8e54f44ef49eb0b0c0146bc3f125663152fbd8</checksum>
+  </package>
+  <package name="libsmbios2" version="2.0.2-11.8.4" arch="x86_64" type="rpm" size="158511">
+    <location>package-pool/libsmbios2-2.0.2-11.8.4.x86_64.rpm</location>
+    <checksum type="sha1">7382c2e52cecaa760ef7f3d9201639d9fb48bd55</checksum>
+  </package>
+  <package name="psmisc" version="22.7-7.1.40" arch="x86_64" type="rpm" size="76205">
+    <location>package-pool/psmisc-22.7-7.1.40.x86_64.rpm</location>
+    <checksum type="sha1">3f818f3042b4abdc9bb9f3ce008b2b82664c621c</checksum>
+  </package>
+  <package name="mdadm" version="3.2.2-0.47.1" arch="x86_64" type="rpm" size="419139">
+    <location>package-pool/mdadm-3.2.2-0.47.1.x86_64.rpm</location>
+    <checksum type="sha1">ee3aaad85106cabd99690efba7844cfa9b778a00</checksum>
+  </package>
+  <package name="pinentry" version="0.7.5-61.33.1" arch="x86_64" type="rpm" size="60508">
+    <location>package-pool/pinentry-0.7.5-61.33.1.x86_64.rpm</location>
+    <checksum type="sha1">ef6d42ef65b001918857f6123ffd60c27a46fda8</checksum>
+  </package>
+  <package name="libgobject-2_0-0" version="2.22.5-0.8.10.2" arch="x86_64" type="rpm" size="130477">
+    <location>package-pool/libgobject-2_0-0-2.22.5-0.8.10.2.x86_64.rpm</location>
+    <checksum type="sha1">d49d51c099443830f593b12cfc81e84fb52c7ed6</checksum>
+  </package>
+  <package name="vmware-tools-plugins-grabbitmqProxy" version="0:10.0.0-1.sles11" arch="x86_64" type="rpm" size="438807">
+    <location>package-pool/vmware-tools-plugins-grabbitmqProxy-10.0.0-1.sles11.x86_64.rpm</location>
+    <checksum type="sha1">a7f7de5356326a8f7e9f2024a08fd15bc1cc69f2</checksum>
+  </package>
+  <package name="libstdc++46" version="4.6.1_20110701-0.13.9" arch="x86_64" type="rpm" size="260895">
+    <location>package-pool/libstdc++46-4.6.1_20110701-0.13.9.x86_64.rpm</location>
+    <checksum type="sha1">68f48572ca768eb0137fbd35ca5edc0a8f49ce67</checksum>
+  </package>
+  <package name="zlib-32bit" version="1.2.3-106.34" arch="x86_64" type="rpm" size="43103">
+    <location>package-pool/zlib-32bit-1.2.3-106.34.x86_64.rpm</location>
+    <checksum type="sha1">c9cdb319208154a26a635c255371f304631391fb</checksum>
+  </package>
+  <package name="autoyast2-installation" version="2.17.57.3-0.5.1" arch="noarch" type="rpm" size="225389">
+    <location>package-pool/autoyast2-installation-2.17.57.3-0.5.1.noarch.rpm</location>
+    <checksum type="sha1">9017a4d142b24eb94a4a73e93d891f0231c3a691</checksum>
+  </package>
+  <package name="cron" version="4.1-194.207.1" arch="x86_64" type="rpm" size="71720">
+    <location>package-pool/cron-4.1-194.207.1.x86_64.rpm</location>
+    <checksum type="sha1">ed0d0191f98a767c3f6fe0ae8352b0ed4355d61f</checksum>
+  </package>
+  <package name="unzip" version="6.00-11.7.1" arch="x86_64" type="rpm" size="263501">
+    <location>package-pool/unzip-6.00-11.7.1.x86_64.rpm</location>
+    <checksum type="sha1">e4d4e1d81dae292bd18fe8dc75771d252bec2b52</checksum>
+  </package>
+  <package name="bind-libs" version="9.9.6P1-0.22.1" arch="x86_64" type="rpm" size="1173872">
+    <location>package-pool/bind-libs-9.9.6P1-0.22.1.x86_64.rpm</location>
+    <checksum type="sha1">b921e9d744f336d90c169f03e9c4e6f7ba8a135a</checksum>
+  </package>
+  <package name="vmware-tools-vmci-common" version="0:10.0.0-5.sles11" arch="x86_64" type="rpm" size="32334">
+    <location>package-pool/vmware-tools-vmci-common-10.0.0-5.sles11.x86_64.rpm</location>
+    <checksum type="sha1">4ed51acc198d064bb8c4c0c9d230a9c5429f2b22</checksum>
+  </package>
+  <package name="net-tools" version="1.60-725.32.2.1" arch="x86_64" type="rpm" size="245462">
+    <location>package-pool/net-tools-1.60-725.32.2.1.x86_64.rpm</location>
+    <checksum type="sha1">6caabc4fc69dfa3502167fcd8460946cb5cefec5</checksum>
+  </package>
+  <package name="metamail" version="2.7.19-1244.20" arch="x86_64" type="rpm" size="155661">
+    <location>package-pool/metamail-2.7.19-1244.20.x86_64.rpm</location>
+    <checksum type="sha1">22effae7d2e2cb36b5253e25cf5ed5ba0438abfa</checksum>
+  </package>
+  <package name="python" version="2.6.9-0.31.1" arch="x86_64" type="rpm" size="275353">
+    <location>package-pool/python-2.6.9-0.31.1.x86_64.rpm</location>
+    <checksum type="sha1">996f76e604dda3d82a596e574a660168085b9848</checksum>
+  </package>
+  <package name="dbus-1" version="1.2.10-3.27.1" arch="x86_64" type="rpm" size="252932">
+    <location>package-pool/dbus-1-1.2.10-3.27.1.x86_64.rpm</location>
+    <checksum type="sha1">158306499d715bd57d96d3947fd3e1d6561eed98</checksum>
+  </package>
+  <package name="efibootmgr" version="0.5.4-15.28.2" arch="x86_64" type="rpm" size="28967">
+    <location>package-pool/efibootmgr-0.5.4-15.28.2.x86_64.rpm</location>
+    <checksum type="sha1">e637cc94ecbe6d4168ab5d59f6bb15beb0fcb4a0</checksum>
+  </package>
+  <package name="bridge-utils" version="1.4-23.18.1" arch="x86_64" type="rpm" size="51219">
+    <location>package-pool/bridge-utils-1.4-23.18.1.x86_64.rpm</location>
+    <checksum type="sha1">8c0677e6ca16b60a639f280a6777583fff48a700</checksum>
+  </package>
+  <package name="libgcrypt11" version="1.5.0-0.15.2" arch="x86_64" type="rpm" size="344247">
+    <location>package-pool/libgcrypt11-1.5.0-0.15.2.x86_64.rpm</location>
+    <checksum type="sha1">d9bf8ef576e8dd4824279b4df44d50a0c2a5e71f</checksum>
+  </package>
+  <package name="libcryptsetup0" version="1.0.5_SVNr46-58.37.3" arch="x86_64" type="rpm" size="34857">
+    <location>package-pool/libcryptsetup0-1.0.5_SVNr46-58.37.3.x86_64.rpm</location>
+    <checksum type="sha1">60d98230128ee432d19eb5a046f9c832e8e9490d</checksum>
+  </package>
+  <package name="sysstat" version="8.1.5-7.38.40.1" arch="x86_64" type="rpm" size="178293">
+    <location>package-pool/sysstat-8.1.5-7.38.40.1.x86_64.rpm</location>
+    <checksum type="sha1">bfb41d6724b1e4023c6547408cf8f8297d435d00</checksum>
+  </package>
+  <package name="ruby2.1-rubygem-terminal-table" version="1.5.2-1.3" arch="x86_64" type="rpm" size="23053">
+    <location>package-pool/ruby2.1-rubygem-terminal-table-1.5.2-1.3.x86_64.rpm</location>
+    <checksum type="sha1">613ff2ee4d496415522ec38fd4e88db77333b96e</checksum>
+  </package>
+  <package name="vmware-vi-regtool" version="2.0.0-3967771" arch="noarch" type="rpm" size="15951294">
+    <location>package-pool/vmware-vi-regtool-2.0.0-3967771.noarch.rpm</location>
+    <checksum type="sha1">f0a8d0019e2f9ffbd3a653f5e09b5a6ce009c929</checksum>
+  </package>
+  <package name="vmware-studio-vami-service-administration" version="5.5.0-4923587" arch="x86_64" type="rpm" size="373924">
+    <location>package-pool/vmware-studio-vami-service-administration-5.5.0-4923587.x86_64.rpm</location>
+    <checksum type="sha1">a344361f9aed4676095279273b8d6fbc42f5dea7</checksum>
+  </package>
+  <package name="libgssglue1" version="0.1-20.2.1" arch="x86_64" type="rpm" size="21088">
+    <location>package-pool/libgssglue1-0.1-20.2.1.x86_64.rpm</location>
+    <checksum type="sha1">6b70674be4f1328add364b8a8db93d193b0617cc</checksum>
+  </package>
+  <package name="subscription-tools" version="1.0-0.21.1" arch="noarch" type="rpm" size="47499">
+    <location>package-pool/subscription-tools-1.0-0.21.1.noarch.rpm</location>
+    <checksum type="sha1">7250fc1502c99eeda07029abae41343256f77711</checksum>
+  </package>
+  <package name="libopenct1" version="0.6.15-5.20" arch="x86_64" type="rpm" size="20637">
+    <location>package-pool/libopenct1-0.6.15-5.20.x86_64.rpm</location>
+    <checksum type="sha1">7286f6d4ec97395d8b2f1c0875d267ac0f838701</checksum>
+  </package>
+  <package name="perl-Config-Crontab" version="1.21-73.21" arch="x86_64" type="rpm" size="50834">
+    <location>package-pool/perl-Config-Crontab-1.21-73.21.x86_64.rpm</location>
+    <checksum type="sha1">5395c7fcba68e03b30e27408ad390d518395a9bb</checksum>
+  </package>
+  <package name="rubygem-builder" version="3.0.0-1" arch="x86_64" type="rpm" size="604260">
+    <location>package-pool/rubygem-builder_3.0.0-1_x86_64.rpm</location>
+    <checksum type="sha1">459f09fc95c979c67e61ae067769af74ff40aee7</checksum>
+  </package>
+  <package name="vmware-tools-plugins-autoUpgrade" version="0:10.0.0-1.sles11" arch="x86_64" type="rpm" size="5839">
+    <location>package-pool/vmware-tools-plugins-autoUpgrade-10.0.0-1.sles11.x86_64.rpm</location>
+    <checksum type="sha1">56825cd841fb330af338d6c5ab8b555345cbe118</checksum>
+  </package>
+  <package name="VMware-vPostgres-client-odbc" version="9.0.22.0-2990740" arch="x86_64" type="rpm" size="577600">
+    <location>package-pool/VMware-vPostgres-client-odbc-9.0.22.0-2990740.x86_64.rpm</location>
+    <checksum type="sha1">c3813b6947307a057bfef1d1d07ef5d2521d0e64</checksum>
+  </package>
+  <package name="rubygem-highline" version="1.6.2-1" arch="x86_64" type="rpm" size="59890">
+    <location>package-pool/rubygem-highline_1.6.2-1_x86_64.rpm</location>
+    <checksum type="sha1">45ba188891256d4d7c7642cc75ca41122e34c16c</checksum>
+  </package>
+  <package name="keyutils-libs" version="1.2-107.22" arch="x86_64" type="rpm" size="15853">
+    <location>package-pool/keyutils-libs-1.2-107.22.x86_64.rpm</location>
+    <checksum type="sha1">0c73f343acfe955f35e6c7989b63e4e6cfab85d7</checksum>
+  </package>
+  <package name="glibc-32bit" version="2.11.3-17.45.66.1" arch="x86_64" type="rpm" size="1103180">
+    <location>package-pool/glibc-32bit-2.11.3-17.45.66.1.x86_64.rpm</location>
+    <checksum type="sha1">bf925b285ffd3ca12370f539a5275606443fc389</checksum>
+  </package>
+  <package name="yast2-ldap-client" version="2.17.35-0.5.2" arch="noarch" type="rpm" size="109194">
+    <location>package-pool/yast2-ldap-client-2.17.35-0.5.2.noarch.rpm</location>
+    <checksum type="sha1">1adb4a881994c6c779080890f8085fa4849f73ff</checksum>
+  </package>
+  <package name="patch" version="2.5.9-252.22.2" arch="x86_64" type="rpm" size="64091">
+    <location>package-pool/patch-2.5.9-252.22.2.x86_64.rpm</location>
+    <checksum type="sha1">7af3ec43ee58a50d4111bdd78247da04b13f8e31</checksum>
+  </package>
+  <package name="pm-utils" version="0.99.4.20071229-12.14.1" arch="x86_64" type="rpm" size="43899">
+    <location>package-pool/pm-utils-0.99.4.20071229-12.14.1.x86_64.rpm</location>
+    <checksum type="sha1">50de76a36433f4a7422aa342fa85f16e4b33f8e2</checksum>
+  </package>
+  <package name="rpcbind" version="0.1.6+git20080930-6.18.1" arch="x86_64" type="rpm" size="48352">
+    <location>package-pool/rpcbind-0.1.6+git20080930-6.18.1.x86_64.rpm</location>
+    <checksum type="sha1">e40cb7ecdafdc55756d270386e1e3ef825af8447</checksum>
+  </package>
+  <package name="setserial" version="2.17-716.22" arch="x86_64" type="rpm" size="22768">
+    <location>package-pool/setserial-2.17-716.22.x86_64.rpm</location>
+    <checksum type="sha1">915e31fe9634f14af0106357a9b6d444fd9d76b5</checksum>
+  </package>
+  <package name="stunnel" version="4.36-0.12.1" arch="x86_64" type="rpm" size="158830">
+    <location>package-pool/stunnel-4.36-0.12.1.x86_64.rpm</location>
+    <checksum type="sha1">9ec5b307f84963f79d090a6fb44d901530781626</checksum>
+  </package>
+  <package name="dhcpv6" version="1.0.22-3.21.2" arch="x86_64" type="rpm" size="156967">
+    <location>package-pool/dhcpv6-1.0.22-3.21.2.x86_64.rpm</location>
+    <checksum type="sha1">30d90c84103ad252203979703d1f12ef0f736d2c</checksum>
+  </package>
+  <package name="pam" version="1.1.5-0.10.17" arch="x86_64" type="rpm" size="458562">
+    <location>package-pool/pam-1.1.5-0.10.17.x86_64.rpm</location>
+    <checksum type="sha1">18b79f5e0ebf8a670439eda9c13a1c9c315fc0c7</checksum>
+  </package>
+  <package name="VMware-vPostgres" version="9.0.22.0-2990740" arch="x86_64" type="rpm" size="8788955">
+    <location>package-pool/VMware-vPostgres-9.0.22.0-2990740.x86_64.rpm</location>
+    <checksum type="sha1">bb66c2f0aa58346fe019645fcfea92cc3a568da1</checksum>
+  </package>
+  <package name="yast2-registration" version="2.17.35.4-0.5.1" arch="noarch" type="rpm" size="171930">
+    <location>package-pool/yast2-registration-2.17.35.4-0.5.1.noarch.rpm</location>
+    <checksum type="sha1">8380b4d19c59976f66a6d28a5acb93818ae1a512</checksum>
+  </package>
+  <package name="syslog-ng" version="2.0.9-27.34.36.1" arch="x86_64" type="rpm" size="252524">
+    <location>package-pool/syslog-ng-2.0.9-27.34.36.1.x86_64.rpm</location>
+    <checksum type="sha1">f314b11a141c82edf478cc78024c2956e0bbc040</checksum>
+  </package>
+  <package name="yast2-pkg-bindings" version="2.17.58-0.5.1" arch="x86_64" type="rpm" size="543254">
+    <location>package-pool/yast2-pkg-bindings-2.17.58-0.5.1.x86_64.rpm</location>
+    <checksum type="sha1">da831e59a2490f110332f3abd6e8d64fc9b37625</checksum>
+  </package>
+  <package name="libnss_ato" version="0.2-1" arch="x86_64" type="rpm" size="7066">
+    <location>package-pool/libnss_ato_0.2-1_x86_64.rpm</location>
+    <checksum type="sha1">3a74e581d30af2f132af7d53ea9e3418e5164de4</checksum>
+  </package>
+  <package name="suse-build-key" version="1.0-907.39.3.1" arch="noarch" type="rpm" size="10847">
+    <location>package-pool/suse-build-key-1.0-907.39.3.1.noarch.rpm</location>
+    <checksum type="sha1">93b9fd9a327199704575071aa88e622890e3e55d</checksum>
+  </package>
+  <package name="pwdutils" version="3.2.15-0.13.1" arch="x86_64" type="rpm" size="362643">
+    <location>package-pool/pwdutils-3.2.15-0.13.1.x86_64.rpm</location>
+    <checksum type="sha1">02f48e7713d3b5269dce74cb206d050ac395c7fb</checksum>
+  </package>
+  <package name="dhcp-client" version="4.2.4.P2-0.11.13.1" arch="x86_64" type="rpm" size="708787">
+    <location>package-pool/dhcp-client-4.2.4.P2-0.11.13.1.x86_64.rpm</location>
+    <checksum type="sha1">800ada406cad797c4d4eca3b8fe2ee42bb4a3db2</checksum>
+  </package>
+  <package name="vmware-studio-vami-service-update" version="2.6.0.2-0" arch="x86_64" type="rpm" size="896790">
+    <location>package-pool/vmware-studio-vami-service-update_2.6.0.2-1484742427-0_x86_64.rpm</location>
+    <checksum type="sha1">b16a9d2bcf35aafc1518adcb43c3dc5a31ef9942</checksum>
+  </package>
+  <package name="popt" version="1.7-37.56.1" arch="x86_64" type="rpm" size="45796">
+    <location>package-pool/popt-1.7-37.56.1.x86_64.rpm</location>
+    <checksum type="sha1">c35e1fd2f254c1b2091b437cd84528512b3e4365</checksum>
+  </package>
+  <package name="libxslt" version="1.1.24-19.23.1" arch="x86_64" type="rpm" size="151765">
+    <location>package-pool/libxslt-1.1.24-19.23.1.x86_64.rpm</location>
+    <checksum type="sha1">90449cda5eaa212b3a3dc00b2c3ee72446c9ca36</checksum>
+  </package>
+  <package name="sendmail" version="8.14.3-50.20.1" arch="x86_64" type="rpm" size="1138932">
+    <location>package-pool/sendmail-8.14.3-50.20.1.x86_64.rpm</location>
+    <checksum type="sha1">aed19e635684c94705b15b38daaa4677dbccb3fa</checksum>
+  </package>
+  <package name="vmware-studio-vami-service-update-misc" version="5.5.0-4923587" arch="x86_64" type="rpm" size="7362">
+    <location>package-pool/vmware-studio-vami-service-update-misc-5.5.0-4923587.x86_64.rpm</location>
+    <checksum type="sha1">9a26ce26c8f0ff86329b2d3836b7ce7518e7ce28</checksum>
+  </package>
+  <package name="zypper" version="1.6.178-0.5.3.6545.0.PTF.862471" arch="x86_64" type="rpm" size="999119">
+    <location>package-pool/zypper-1.6.178-0.5.3.6545.0.PTF.862471.x86_64.rpm</location>
+    <checksum type="sha1">c09e675d0595be54ce9a3e9bc88ff7b56cd688b2</checksum>
+  </package>
+  <package name="ConsoleKit" version="0.2.10-64.65.1" arch="x86_64" type="rpm" size="81121">
+    <location>package-pool/ConsoleKit-0.2.10-64.65.1.x86_64.rpm</location>
+    <checksum type="sha1">bdd84af8c5b06c9a1e9d996182692ed4c6df9b2e</checksum>
+  </package>
+  <package name="perl" version="5.10.0-64.61.61.1" arch="x86_64" type="rpm" size="7324606">
+    <location>package-pool/perl-5.10.0-64.61.61.1.x86_64.rpm</location>
+    <checksum type="sha1">b42a532744846c2fed9718dc71993c843a8b0d0c</checksum>
+  </package>
+  <package name="yast2-ncurses" version="2.17.21-0.5.1" arch="x86_64" type="rpm" size="318865">
+    <location>package-pool/yast2-ncurses-2.17.21-0.5.1.x86_64.rpm</location>
+    <checksum type="sha1">e5e3b7688d068b90223db70c3560acdfc5c5852a</checksum>
+  </package>
+  <package name="curl" version="7.19.7-1.20.31.1" arch="x86_64" type="rpm" size="165152">
+    <location>package-pool/curl-7.19.7-1.20.31.1.x86_64.rpm</location>
+    <checksum type="sha1">fd68e7bdbd14a8e2e90122bfbbeeed7a5bc1688d</checksum>
+  </package>
+  <package name="perl-Parse-RecDescent" version="1.96.0-1.22" arch="x86_64" type="rpm" size="92708">
+    <location>package-pool/perl-Parse-RecDescent-1.96.0-1.22.x86_64.rpm</location>
+    <checksum type="sha1">c3b9e3c5aeb24d21e7f2db0e3dbd3b3a4cf5b41a</checksum>
+  </package>
+  <package name="yast2-trans-stats" version="2.15.0-2.17" arch="noarch" type="rpm" size="8580">
+    <location>package-pool/yast2-trans-stats-2.15.0-2.17.noarch.rpm</location>
+    <checksum type="sha1">b484d7c6850f346d04e5c556ad48295009d02d18</checksum>
+  </package>
+  <package name="vmware-kdc" version="1.0.0-4923586" arch="x86_64" type="rpm" size="538872">
+    <location>package-pool/vmware-kdc-1.0.0-4923586.x86_64.rpm</location>
+    <checksum type="sha1">3db1d8ccd75e6d4b12317e890613d4f53ba23d59</checksum>
+  </package>
+  <package name="libblkid1" version="2.19.1-6.33.47.1" arch="x86_64" type="rpm" size="87591">
+    <location>package-pool/libblkid1-2.19.1-6.33.47.1.x86_64.rpm</location>
+    <checksum type="sha1">21a1ad5749a88578b4eb4df27c7f7ec8aeb2f681</checksum>
+  </package>
+  <package name="libxcrypt" version="3.0.3-0.6.1" arch="x86_64" type="rpm" size="38077">
+    <location>package-pool/libxcrypt-3.0.3-0.6.1.x86_64.rpm</location>
+    <checksum type="sha1">792e59aca2131fa2891510fd07c27694f117d7ca</checksum>
+  </package>
+  <package name="sysconfig" version="0.71.48-0.7.1" arch="x86_64" type="rpm" size="354417">
+    <location>package-pool/sysconfig-0.71.48-0.7.1.x86_64.rpm</location>
+    <checksum type="sha1">a46514c2caf8c578a2197982656fe749bd5fdd38</checksum>
+  </package>
+  <package name="timezone" version="2016a-0.14.2" arch="x86_64" type="rpm" size="352157">
+    <location>package-pool/timezone-2016a-0.14.2.x86_64.rpm</location>
+    <checksum type="sha1">2007d60635e8e9c0ae79daeb7a4de4a241991e11</checksum>
+  </package>
+  <package name="cyrus-sasl" version="2.1.22-182.20.1" arch="x86_64" type="rpm" size="321340">
+    <location>package-pool/cyrus-sasl-2.1.22-182.20.1.x86_64.rpm</location>
+    <checksum type="sha1">f3cfac2b6431d155b4c7de58ed8ff2725d257741</checksum>
+  </package>
+  <package name="gzip" version="1.3.12-69.23.1" arch="x86_64" type="rpm" size="75670">
+    <location>package-pool/gzip-1.3.12-69.23.1.x86_64.rpm</location>
+    <checksum type="sha1">68778159b92c11ba65fa70b2eed68ba44dc2d100</checksum>
+  </package>
+  <package name="yast2-update" version="2.17.23-0.5.40" arch="x86_64" type="rpm" size="96015">
+    <location>package-pool/yast2-update-2.17.23-0.5.40.x86_64.rpm</location>
+    <checksum type="sha1">039ce2f90f5b0aae25599c8bccb4cf1a2bcc88c0</checksum>
+  </package>
+  <package name="satsolver-tools" version="0.17.7-0.6.2.1" arch="x86_64" type="rpm" size="357894">
+    <location>package-pool/satsolver-tools-0.17.7-0.6.2.1.x86_64.rpm</location>
+    <checksum type="sha1">fb11aa085b0e39e9f31791e91c6897fed5a220dd</checksum>
+  </package>
+  <package name="openldap2" version="2.4.26-0.16.1" arch="x86_64" type="rpm" size="2695055">
+    <location>package-pool/openldap2-2.4.26-0.16.1.x86_64.rpm</location>
+    <checksum type="sha1">d40a57282b34b2464aa48e292155b1ffa1fdab5a</checksum>
+  </package>
+  <package name="update-alternatives" version="1.14.19-1.22" arch="noarch" type="rpm" size="14594">
+    <location>package-pool/update-alternatives-1.14.19-1.22.noarch.rpm</location>
+    <checksum type="sha1">b2e02fce991ce803f36c911b1d1e11624160c4a3</checksum>
+  </package>
+  <package name="libelf1" version="0.152-4.7.86" arch="x86_64" type="rpm" size="44075">
+    <location>package-pool/libelf1-0.152-4.7.86.x86_64.rpm</location>
+    <checksum type="sha1">63808c9ac82e02327f474802267d4964e0f8e90e</checksum>
+  </package>
+  <package name="gpm" version="1.20.1-452.83" arch="x86_64" type="rpm" size="200834">
+    <location>package-pool/gpm-1.20.1-452.83.x86_64.rpm</location>
+    <checksum type="sha1">e826f3c41d2970731f89ca2f98d6f50d1f1bdd30</checksum>
+  </package>
+  <package name="sudo" version="1.7.6p2-0.2.12.5" arch="x86_64" type="rpm" size="442542">
+    <location>package-pool/sudo-1.7.6p2-0.2.12.5.x86_64.rpm</location>
+    <checksum type="sha1">dab4e6c00f760f16b33b40b2998296b1b51cf15e</checksum>
+  </package>
+  <package name="vmware-tools-plugins-hgfsServer" version="0:10.0.0-1.sles11" arch="x86_64" type="rpm" size="5825">
+    <location>package-pool/vmware-tools-plugins-hgfsServer-10.0.0-1.sles11.x86_64.rpm</location>
+    <checksum type="sha1">976c441f3878d859b2ca1996e7a57b39683ecc1b</checksum>
+  </package>
+  <package name="glib2-lang" version="2.22.5-0.8.10.2" arch="x86_64" type="rpm" size="509458">
+    <location>package-pool/glib2-lang-2.22.5-0.8.10.2.x86_64.rpm</location>
+    <checksum type="sha1">e4183325074089a6f5d287dfd73825ef0b0942f0</checksum>
+  </package>
+  <package name="apache2-prefork" version="2.2.12-1.48.1" arch="x86_64" type="rpm" size="289222">
+    <location>package-pool/apache2-prefork-2.2.12-1.48.1.x86_64.rpm</location>
+    <checksum type="sha1">598079477c6b07782e8372b0f9235e44e7ce855a</checksum>
+  </package>
+  <package name="rubygem-zip" version="2.0.2-1" arch="x86_64" type="rpm" size="67303">
+    <location>package-pool/rubygem-zip_2.0.2-1_x86_64.rpm</location>
+    <checksum type="sha1">f3204936d3c63e0664b8e1d4ac75381798d068db</checksum>
+  </package>
+  <package name="kernel-default" version="3.0.101-0.7.37.1" arch="x86_64" type="rpm" size="21407422">
+    <location>package-pool/kernel-default-3.0.101-0.7.37.1.x86_64.rpm</location>
+    <checksum type="sha1">460b2a72189496a1bfd0d02ad506a41aa362c063</checksum>
+  </package>
+  <package name="ypbind" version="1.22-1.17" arch="x86_64" type="rpm" size="38608">
+    <location>package-pool/ypbind-1.22-1.17.x86_64.rpm</location>
+    <checksum type="sha1">5ba8f9208d20a90f619da1e43ad5311e3361d65e</checksum>
+  </package>
+  <package name="libblocxx6" version="2.1.0.342-122.6" arch="x86_64" type="rpm" size="357023">
+    <location>package-pool/libblocxx6-2.1.0.342-122.6.x86_64.rpm</location>
+    <checksum type="sha1">09489169e5a63cfafdae0fc0dbe714fc32868f8f</checksum>
+  </package>
+  <package name="vmware-tools-vmxnet-common" version="0:10.0.0-5.sles11" arch="x86_64" type="rpm" size="50401">
+    <location>package-pool/vmware-tools-vmxnet-common-10.0.0-5.sles11.x86_64.rpm</location>
+    <checksum type="sha1">8392bb258d8b428219d96bee88d9a1178bf3e252</checksum>
+  </package>
+  <package name="cracklib" version="2.8.12-56.9.9" arch="x86_64" type="rpm" size="56220">
+    <location>package-pool/cracklib-2.8.12-56.9.9.x86_64.rpm</location>
+    <checksum type="sha1">c3f0e6a4a733a58c15a0ffbf813b6c17509ffc4d</checksum>
+  </package>
+  <package name="ipxe" version="1.0.0-1.3463103.vmw" arch="i686" type="rpm" size="11349116">
+    <location>package-pool/ipxe-1.0.0-1.3463103.vmw.i686.rpm</location>
+    <checksum type="sha1">f62a6e151dcf410443dd1bab3890721d827e83d3</checksum>
+  </package>
+  <package name="libebl1" version="0.152-4.7.86" arch="x86_64" type="rpm" size="71691">
+    <location>package-pool/libebl1-0.152-4.7.86.x86_64.rpm</location>
+    <checksum type="sha1">c8eab66ebc031d12529d4488c326628634019cf3</checksum>
+  </package>
+  <package name="yast2-trans-en_US" version="2.17.32-0.5.1" arch="noarch" type="rpm" size="142003">
+    <location>package-pool/yast2-trans-en_US-2.17.32-0.5.1.noarch.rpm</location>
+    <checksum type="sha1">61cec22db3926b6670b601e0fb41095d2fba55f8</checksum>
+  </package>
+  <package name="VMware-vpxd" version="5.5.0-4935376" arch="x86_64" type="rpm" size="77429898">
+    <location>package-pool/VMware-vpxd-5.5.0-4935376.x86_64.rpm</location>
+    <checksum type="sha1">3a2d90788b1b3443d65a7835fad68eab34c86a28</checksum>
+  </package>
+  <package name="cryptsetup" version="1.0.5_SVNr46-58.37.3" arch="x86_64" type="rpm" size="57101">
+    <location>package-pool/cryptsetup-1.0.5_SVNr46-58.37.3.x86_64.rpm</location>
+    <checksum type="sha1">3889dec829b4da3537b12203a158423ac1df6692</checksum>
+  </package>
+  <package name="libsqlite3-0" version="3.7.6.3-1.4.4.1" arch="x86_64" type="rpm" size="294045">
+    <location>package-pool/libsqlite3-0-3.7.6.3-1.4.4.1.x86_64.rpm</location>
+    <checksum type="sha1">b1539a5671df62fdfd689a1fee57a78458374acf</checksum>
+  </package>
+  <package name="rubygem-rbvmomi" version="1.7.0-1" arch="x86_64" type="rpm" size="186444">
+    <location>package-pool/rubygem-rbvmomi_1.7.0-1_x86_64.rpm</location>
+    <checksum type="sha1">e2286a1faa355ced4f40c821bd5551eaebc14c38</checksum>
+  </package>
+  <package name="elfutils" version="0.152-4.7.86" arch="x86_64" type="rpm" size="266068">
+    <location>package-pool/elfutils-0.152-4.7.86.x86_64.rpm</location>
+    <checksum type="sha1">5927fa1aca182910d71e1a5cc927b36e49448602</checksum>
+  </package>
+  <package name="VMware-unixODBC" version="2.2.14.vmw.3-4935376" arch="x86_64" type="rpm" size="2633572">
+    <location>package-pool/VMware-unixODBC-2.2.14.vmw.3-4935376.x86_64.rpm</location>
+    <checksum type="sha1">0bd8c1e7b5cf61b5f0053849f2a2d55bd4fa728c</checksum>
+  </package>
+  <package name="ruby21" version="2.1.7-1.vmw.3099938" arch="x86_64" type="rpm" size="28117116">
+    <location>package-pool/ruby21-2.1.7-1.vmw.3099938.x86_64.rpm</location>
+    <checksum type="sha1">7b9d9430dc86e1dc61b6ef66d864aa3681b94b3b</checksum>
+  </package>
+  <package name="aaa_base" version="11-6.77.79.1" arch="x86_64" type="rpm" size="172342">
+    <location>package-pool/aaa_base-11-6.77.79.1.x86_64.rpm</location>
+    <checksum type="sha1">5aac85d6019e446231da033cfc256527652b9b55</checksum>
+  </package>
+  <package name="vmware-certificate-server" version="0.0.1-4923589" arch="x86_64" type="rpm" size="1913537">
+    <location>package-pool/vmware-certificate-server-0.0.1-4923589.x86_64.rpm</location>
+    <checksum type="sha1">b126060d2e01e93e7819d747ff3af315dbb67c31</checksum>
+  </package>
+  <package name="libaugeas0" version="0.8.1-7.18.1" arch="x86_64" type="rpm" size="158616">
+    <location>package-pool/libaugeas0-0.8.1-7.18.1.x86_64.rpm</location>
+    <checksum type="sha1">ed5ef4474342e2a5bafae8fa5f9c414cd229df41</checksum>
+  </package>
+  <package name="vmware-tools-vsock-kmp-default" version="0:9.8.1.0_3.0.13_0.27-5.sles11" arch="x86_64" type="rpm" size="35418">
+    <location>package-pool/vmware-tools-vsock-kmp-default-9.8.1.0_3.0.13_0.27-5.sles11.x86_64.rpm</location>
+    <checksum type="sha1">90254bf075b5ca6b37f06f1e8370583dd057f802</checksum>
+  </package>
+  <package name="syslog-collector" version="5.5.0-713" arch="noarch" type="rpm" size="4591">
+    <location>package-pool/syslog-collector-5.5.0-713.noarch.rpm</location>
+    <checksum type="sha1">8aa99cd5be651d61a9749ecc5c1f6c70f448a2b6</checksum>
+  </package>
+  <package name="rubygem-libxml-ruby" version="2.2.2-1" arch="x86_64" type="rpm" size="945431">
+    <location>package-pool/rubygem-libxml-ruby_2.2.2-1_x86_64.rpm</location>
+    <checksum type="sha1">3061c8ad1a8d87d034516e3106c615106fa5b14d</checksum>
+  </package>
+  <package name="yast2-mouse" version="2.16.1-19.38" arch="x86_64" type="rpm" size="25672">
+    <location>package-pool/yast2-mouse-2.16.1-19.38.x86_64.rpm</location>
+    <checksum type="sha1">48907f083b3726ae253e7076c623ec093e24eb2f</checksum>
+  </package>
+  <package name="vmware-tools-core" version="0:10.0.0-1.sles11" arch="x86_64" type="rpm" size="4280147">
+    <location>package-pool/vmware-tools-core-10.0.0-1.sles11.x86_64.rpm</location>
+    <checksum type="sha1">06a9735ff5004b189908843b1b40c016b6f89515</checksum>
+  </package>
+  <package name="xz" version="5.0.3-0.12.1" arch="x86_64" type="rpm" size="109089">
+    <location>package-pool/xz-5.0.3-0.12.1.x86_64.rpm</location>
+    <checksum type="sha1">1a0e1a17067c24edb17301cfd202db0fcd3d5a98</checksum>
+  </package>
+  <package name="vmware-tools-plugins-deployPkg" version="0:10.0.0-1.sles11" arch="x86_64" type="rpm" size="59729">
+    <location>package-pool/vmware-tools-plugins-deployPkg-10.0.0-1.sles11.x86_64.rpm</location>
+    <checksum type="sha1">217f466dd10f134a63bee2f9703c1781f95344b6</checksum>
+  </package>
+  <package name="kpartx" version="0.4.9-0.70.72.1" arch="x86_64" type="rpm" size="47903">
+    <location>package-pool/kpartx-0.4.9-0.70.72.1.x86_64.rpm</location>
+    <checksum type="sha1">2816d6b4fa35af7af33683c42456cd7fd48dcb44</checksum>
+  </package>
+  <package name="sysfsutils" version="2.1.0-102.25.1" arch="x86_64" type="rpm" size="76487">
+    <location>package-pool/sysfsutils-2.1.0-102.25.1.x86_64.rpm</location>
+    <checksum type="sha1">5dbc86220bb3567982359a71b83ac436fa6778e2</checksum>
+  </package>
+  <package name="tar" version="1.26-1.2.4.1" arch="x86_64" type="rpm" size="769200">
+    <location>package-pool/tar-1.26-1.2.4.1.x86_64.rpm</location>
+    <checksum type="sha1">258e0740103ec1aed6844cbae8ca327a3b3a8f04</checksum>
+  </package>
+  <package name="VMware-puc" version="5.5.0-4935376" arch="x86_64" type="rpm" size="13221668">
+    <location>package-pool/VMware-puc-5.5.0-4935376.x86_64.rpm</location>
+    <checksum type="sha1">aada577891c08dbbb9b5cb96f82a55e801fcb00b</checksum>
+  </package>
+  <package name="pam_vc" version="1.0-1" arch="x86_64" type="rpm" size="16624">
+    <location>package-pool/pam_vc_1.0-1_x86_64.rpm</location>
+    <checksum type="sha1">6adb2f610d82afb2b082bfd713de51b8073e4203</checksum>
+  </package>
+  <package name="vmware-studio-vami-tools" version="2.6.0.2-1191928" arch="x86_64" type="rpm" size="2399138">
+    <location>package-pool/vmware-studio-vami-tools_2.6.0.2-1191928_x86_64.rpm</location>
+    <checksum type="sha1">92712ea390db52ed6731a7b346b195bd5ef11ecd</checksum>
+  </package>
+  <package name="dhcpcd" version="3.2.3-45.5.3" arch="x86_64" type="rpm" size="51455">
+    <location>package-pool/dhcpcd-3.2.3-45.5.3.x86_64.rpm</location>
+    <checksum type="sha1">debde8396e1732f09806d1dc5c1e5463e031ec23</checksum>
+  </package>
+  <package name="bash" version="3.2-147.14.22.1.7400.0.PTF.898880" arch="x86_64" type="rpm" size="299980">
+    <location>package-pool/bash-3.2-147.14.22.1.7400.0.PTF.898880.x86_64.rpm</location>
+    <checksum type="sha1">145f185d7468091831faffc37afd0cd202be3d74</checksum>
+  </package>
+  <package name="nfs-client" version="1.2.3-18.33.1" arch="x86_64" type="rpm" size="197704">
+    <location>package-pool/nfs-client-1.2.3-18.33.1.x86_64.rpm</location>
+    <checksum type="sha1">447274a62c2aacab6bfffd98b9020b98bd7cd815</checksum>
+  </package>
+  <package name="libncurses5-32bit" version="5.6-90.55" arch="x86_64" type="rpm" size="246860">
+    <location>package-pool/libncurses5-32bit-5.6-90.55.x86_64.rpm</location>
+    <checksum type="sha1">cdcbb495e0444d6fe6edfd82fcd090f7cf8474cb</checksum>
+  </package>
+  <package name="initviocons" version="0.5-55.21" arch="x86_64" type="rpm" size="25210">
+    <location>package-pool/initviocons-0.5-55.21.x86_64.rpm</location>
+    <checksum type="sha1">019a7843f00dab3640cebc9e41b37c3f0ef68be0</checksum>
+  </package>
+  <package name="vmware-tools-vmmemctl-common" version="0:10.0.0-5.sles11" arch="x86_64" type="rpm" size="32685">
+    <location>package-pool/vmware-tools-vmmemctl-common-10.0.0-5.sles11.x86_64.rpm</location>
+    <checksum type="sha1">58645eecdc2c7bc179059b03e15859dac7c9dad2</checksum>
+  </package>
+  <package name="libzypp" version="9.16.7-0.0.1.6758.0.PTF.862471" arch="x86_64" type="rpm" size="2215729">
+    <location>package-pool/libzypp-9.16.7-0.0.1.6758.0.PTF.862471.x86_64.rpm</location>
+    <checksum type="sha1">5c9b3485a94183b75090022447e6e531d6c51d26</checksum>
+  </package>
+  <package name="vmware-studio-vami-service-virtualcenter" version="5.5.0-4923587" arch="x86_64" type="rpm" size="1182077">
+    <location>package-pool/vmware-studio-vami-service-virtualcenter-5.5.0-4923587.x86_64.rpm</location>
+    <checksum type="sha1">f5556a9edd1ba79e7ea6d87413098165fb88fef2</checksum>
+  </package>
+  <package name="irqbalance" version="0.55-120.32.1" arch="x86_64" type="rpm" size="21574">
+    <location>package-pool/irqbalance-0.55-120.32.1.x86_64.rpm</location>
+    <checksum type="sha1">f82a7a0645c09df8b4b3c36967c09c8668f94efe</checksum>
+  </package>
+  <package name="xinetd" version="2.3.14-130.133.1" arch="x86_64" type="rpm" size="127919">
+    <location>package-pool/xinetd-2.3.14-130.133.1.x86_64.rpm</location>
+    <checksum type="sha1">58a9f5a9aba5af581d22a96edd52c9c457628c7b</checksum>
+  </package>
+  <package name="libncurses5" version="5.6-90.55" arch="x86_64" type="rpm" size="247264">
+    <location>package-pool/libncurses5-5.6-90.55.x86_64.rpm</location>
+    <checksum type="sha1">1a75ac49b18323a4398c193cb668958803853981</checksum>
+  </package>
+  <package name="vsphere-client" version="5.5.0-4912130" arch="noarch" type="rpm" size="309039917">
+    <location>package-pool/vsphere-client-5.5.0-4912130.noarch.rpm</location>
+    <checksum type="sha1">5090eb68160da73816d790ca3eb84fb138869696</checksum>
+  </package>
+  <package name="dhcp" version="4.2.4.P2-0.11.13.1" arch="x86_64" type="rpm" size="670370">
+    <location>package-pool/dhcp-4.2.4.P2-0.11.13.1.x86_64.rpm</location>
+    <checksum type="sha1">e293ea8afcae5813ce87a4e472f7cc42d4c92c53</checksum>
+  </package>
+  <package name="yast2-theme-SLES-for-VMware" version="2.17.20-0.18.9" arch="noarch" type="rpm" size="2266328">
+    <location>package-pool/yast2-theme-SLES-for-VMware-2.17.20-0.18.9.noarch.rpm</location>
+    <checksum type="sha1">09405dec3d5c0cfdf618bba5e8c4767d40c08da2</checksum>
+  </package>
+  <package name="file" version="4.24-43.23.1" arch="x86_64" type="rpm" size="270971">
+    <location>package-pool/file-4.24-43.23.1.x86_64.rpm</location>
+    <checksum type="sha1">761570e05c0d71cb27bdf6eedaafc89c147789de</checksum>
+  </package>
+  <package name="lsscsi" version="0.23-0.5.1" arch="x86_64" type="rpm" size="27398">
+    <location>package-pool/lsscsi-0.23-0.5.1.x86_64.rpm</location>
+    <checksum type="sha1">4f3a89b43cdf94bb947600d692c0a921f5bf4662</checksum>
+  </package>
+  <package name="yast2-perl-bindings" version="2.17.2-1.32.121" arch="x86_64" type="rpm" size="100506">
+    <location>package-pool/yast2-perl-bindings-2.17.2-1.32.121.x86_64.rpm</location>
+    <checksum type="sha1">2fc79f6671d1533be22540b07afb91e7782c0def</checksum>
+  </package>
+  <package name="yast2-ntp-client" version="2.17.14-1.10.14" arch="noarch" type="rpm" size="83748">
+    <location>package-pool/yast2-ntp-client-2.17.14-1.10.14.noarch.rpm</location>
+    <checksum type="sha1">1d44925d50e0e93328d7af69f30cae5b2f2261c4</checksum>
+  </package>
+  <package name="libksba" version="1.0.4-1.16" arch="x86_64" type="rpm" size="104920">
+    <location>package-pool/libksba-1.0.4-1.16.x86_64.rpm</location>
+    <checksum type="sha1">34b0b0da99d2e671772639fde5121e53c30ad898</checksum>
+  </package>
+  <package name="dmraid" version="1.0.0.rc16-0.12.1" arch="x86_64" type="rpm" size="133444">
+    <location>package-pool/dmraid-1.0.0.rc16-0.12.1.x86_64.rpm</location>
+    <checksum type="sha1">723ad895294f74d62e21f976f90621be11229690</checksum>
+  </package>
+  <package name="VMware-vpxd-sim" version="5.5.0-4935376" arch="x86_64" type="rpm" size="163655">
+    <location>package-pool/VMware-vpxd-sim-5.5.0-4935376.x86_64.rpm</location>
+    <checksum type="sha1">5a1b70b12e93c1d2e6fa1beaf8b5a3fe4d6c029a</checksum>
+  </package>
+  <package name="VMware-vpxd-appcfgui" version="5.5.0-4923587" arch="x86_64" type="rpm" size="24047">
+    <location>package-pool/VMware-vpxd-appcfgui-5.5.0-4923587.x86_64.rpm</location>
+    <checksum type="sha1">312bcb786cd5aa94147274046455d3f9d82e50f4</checksum>
+  </package>
+  <package name="libcom_err2" version="1.41.9-2.9.1" arch="x86_64" type="rpm" size="40962">
+    <location>package-pool/libcom_err2-1.41.9-2.9.1.x86_64.rpm</location>
+    <checksum type="sha1">b7c32188d6884a5c7a8beca9059f4a6fd010c900</checksum>
+  </package>
+  <package name="vmware-studio-vami-service-core" version="2.6.0.2-0" arch="x86_64" type="rpm" size="559472">
+    <location>package-pool/vmware-studio-vami-service-core_2.6.0.2-1484742425-0_x86_64.rpm</location>
+    <checksum type="sha1">97c8b48994f5944c71aeaa0e8e32dd1c7756a028</checksum>
+  </package>
+  <package name="less" version="424b-10.22" arch="x86_64" type="rpm" size="122811">
+    <location>package-pool/less-424b-10.22.x86_64.rpm</location>
+    <checksum type="sha1">e64dd1b5b86dd1df8bbbae614f2623b8fda9e353</checksum>
+  </package>
+  <package name="vmware-directory" version="1.0.0-4923586" arch="x86_64" type="rpm" size="1807418">
+    <location>package-pool/vmware-directory-1.0.0-4923586.x86_64.rpm</location>
+    <checksum type="sha1">3d9c5f3ebf698629eb738aa762ade57c99c15aac</checksum>
+  </package>
+  <package name="SLES-for-VMware-release-DVD" version="11.2-1.261" arch="x86_64" type="rpm" size="3237">
+    <location>package-pool/SLES-for-VMware-release-DVD-11.2-1.261.x86_64.rpm</location>
+    <checksum type="sha1">0038c3d09ae9aec627921205ad89a81b4f1e224d</checksum>
+  </package>
+  <package name="rubygem-terminal-table" version="1.4.4-1" arch="x86_64" type="rpm" size="16957">
+    <location>package-pool/rubygem-terminal-table_1.4.4-1_x86_64.rpm</location>
+    <checksum type="sha1">c28262c8d5aef6a2d9129001c175082bed3511f8</checksum>
+  </package>
+  <package name="PolicyKit" version="0.9-14.41.1" arch="x86_64" type="rpm" size="110202">
+    <location>package-pool/PolicyKit-0.9-14.41.1.x86_64.rpm</location>
+    <checksum type="sha1">0a6837fd16a84b10cc0723b655b8bda4a3ce3413</checksum>
+  </package>
+  <package name="bzip2" version="1.0.5-34.253.1" arch="x86_64" type="rpm" size="47335">
+    <location>package-pool/bzip2-1.0.5-34.253.1.x86_64.rpm</location>
+    <checksum type="sha1">b88a85946fc114f9625fcec2ee3313eaee066862</checksum>
+  </package>
+  <package name="libglib-2_0-0" version="2.22.5-0.8.10.2" arch="x86_64" type="rpm" size="304613">
+    <location>package-pool/libglib-2_0-0-2.22.5-0.8.10.2.x86_64.rpm</location>
+    <checksum type="sha1">7191ae47bd03d599d841c139ffdd1e076807aafb</checksum>
+  </package>
+  <package name="procmail" version="3.22-240.4.1" arch="x86_64" type="rpm" size="128949">
+    <location>package-pool/procmail-3.22-240.4.1.x86_64.rpm</location>
+    <checksum type="sha1">3859108b1a0d84f594804f58df6d85d4490143c8</checksum>
+  </package>
+  <package name="kbd" version="1.14.1-16.31.1" arch="x86_64" type="rpm" size="1145680">
+    <location>package-pool/kbd-1.14.1-16.31.1.x86_64.rpm</location>
+    <checksum type="sha1">00ec6361741e1e6693117350fc40a3c66103f53b</checksum>
+  </package>
+  <package name="util-linux-lang" version="2.19.1-6.33.47.1" arch="x86_64" type="rpm" size="923096">
+    <location>package-pool/util-linux-lang-2.19.1-6.33.47.1.x86_64.rpm</location>
+    <checksum type="sha1">c3256406c92076fa7a3193e885d3053baf335371</checksum>
+  </package>
+  <package name="vim" version="7.2-8.15.2" arch="x86_64" type="rpm" size="854388">
+    <location>package-pool/vim-7.2-8.15.2.x86_64.rpm</location>
+    <checksum type="sha1">ad40454e11b0e48ab3a0df50556f01cbbaa15a52</checksum>
+  </package>
+  <package name="e2fsprogs" version="1.41.9-2.9.1" arch="x86_64" type="rpm" size="550345">
+    <location>package-pool/e2fsprogs-1.41.9-2.9.1.x86_64.rpm</location>
+    <checksum type="sha1">aa694f78d0ca32fbef9241f94d5b7c7fd686c77a</checksum>
+  </package>
+  <package name="VMware-vPostgres-client" version="9.0.22.0-2990740" arch="x86_64" type="rpm" size="3542848">
+    <location>package-pool/VMware-vPostgres-client-9.0.22.0-2990740.x86_64.rpm</location>
+    <checksum type="sha1">7c44dedd60437c5e8b0901d91976069ed9da55da</checksum>
+  </package>
+  <package name="libpcap0" version="0.9.8-50.10.1" arch="x86_64" type="rpm" size="101029">
+    <location>package-pool/libpcap0-0.9.8-50.10.1.x86_64.rpm</location>
+    <checksum type="sha1">bb084527dd19e08fb7bcd9d2ee2a9365b2120a6e</checksum>
+  </package>
+  <package name="yast2-transfer" version="2.16.3-0.5.133" arch="x86_64" type="rpm" size="61276">
+    <location>package-pool/yast2-transfer-2.16.3-0.5.133.x86_64.rpm</location>
+    <checksum type="sha1">2b528b3780670eeb8de5b99a4e6b25f9dc323adf</checksum>
+  </package>
+  <package name="atmel-firmware" version="1.3-139.8" arch="noarch" type="rpm" size="160126">
+    <location>package-pool/atmel-firmware-1.3-139.8.noarch.rpm</location>
+    <checksum type="sha1">684cda93e661acd96884ee0b06b466d34230b53b</checksum>
+  </package>
+  <package name="fbset" version="2.1-919.22" arch="x86_64" type="rpm" size="41685">
+    <location>package-pool/fbset-2.1-919.22.x86_64.rpm</location>
+    <checksum type="sha1">102b171cf9bb71b413be3e6f5c2114b0011d366d</checksum>
+  </package>
+  <package name="udev" version="147-0.69.71.1" arch="x86_64" type="rpm" size="235886">
+    <location>package-pool/udev-147-0.69.71.1.x86_64.rpm</location>
+    <checksum type="sha1">ee97695bdfba1e89ba6adfcfbb377485a159ceb3</checksum>
+  </package>
+  <package name="insserv" version="1.12.0-25.8.1" arch="x86_64" type="rpm" size="39104">
+    <location>package-pool/insserv-1.12.0-25.8.1.x86_64.rpm</location>
+    <checksum type="sha1">86047f0890e1bfceea227907dd1888c4cfd327a7</checksum>
+  </package>
+  <package name="perl-doc" version="5.10.0-64.61.61.1" arch="x86_64" type="rpm" size="6194847">
+    <location>package-pool/perl-doc-5.10.0-64.61.61.1.x86_64.rpm</location>
+    <checksum type="sha1">a83c3c4bf379c5d7047473cfa20b959f131bcc64</checksum>
+  </package>
+  <package name="VMware-vPostgres-jdbc" version="5.5.0-1914197" arch="x86_64" type="rpm" size="528622">
+    <location>package-pool/VMware-vPostgres-jdbc-5.5.0-1914197.x86_64.rpm</location>
+    <checksum type="sha1">afb163450a7526714198017f7415ebbe94c1395e</checksum>
+  </package>
+  <package name="gdb" version="7.3-0.6.1" arch="x86_64" type="rpm" size="2336994">
+    <location>package-pool/gdb-7.3-0.6.1.x86_64.rpm</location>
+    <checksum type="sha1">ae1b766e3ad91b38b64a8175fd65da9db21a1cd6</checksum>
+  </package>
+  <package name="bind-utils" version="9.9.6P1-0.22.1" arch="x86_64" type="rpm" size="268767">
+    <location>package-pool/bind-utils-9.9.6P1-0.22.1.x86_64.rpm</location>
+    <checksum type="sha1">f647c3f8f7063f6c514e3bda7a55fdb465cd6381</checksum>
+  </package>
+  <package name="sharutils" version="4.6.3-3.19" arch="x86_64" type="rpm" size="166679">
+    <location>package-pool/sharutils-4.6.3-3.19.x86_64.rpm</location>
+    <checksum type="sha1">acc011a2552e10f701b7b737b6e49069c9a34b4d</checksum>
+  </package>
+  <package name="vmware-tools-plugins-timeSync" version="0:10.0.0-1.sles11" arch="x86_64" type="rpm" size="10827">
+    <location>package-pool/vmware-tools-plugins-timeSync-10.0.0-1.sles11.x86_64.rpm</location>
+    <checksum type="sha1">8dbf4e407adf6cbe370155b9a27be100b2b287bd</checksum>
+  </package>
+  <package name="libopenssl0_9_8" version="0.9.8j-0.80.1" arch="x86_64" type="rpm" size="781797">
+    <location>package-pool/libopenssl0_9_8-0.9.8j-0.80.1.x86_64.rpm</location>
+    <checksum type="sha1">70ce30b9fbc2214ddb5332b44448bf82666a01e7</checksum>
+  </package>
+  <package name="ruby19" version="1.9.2.p290-2.1" arch="x86_64" type="rpm" size="3871125">
+    <location>package-pool/ruby19-1.9.2.p290-2.1.x86_64.rpm</location>
+    <checksum type="sha1">8484b0e2ad2c718865779e3611837ddb2173822b</checksum>
+  </package>
+  <package name="sed" version="4.1.5-85.22" arch="x86_64" type="rpm" size="164375">
+    <location>package-pool/sed-4.1.5-85.22.x86_64.rpm</location>
+    <checksum type="sha1">3da8379e1044317b619afb27d202f1d413d98097</checksum>
+  </package>
+  <package name="VMware-vPostgres-server-extensions" version="9.0.22.0-2990740" arch="x86_64" type="rpm" size="1522362">
+    <location>package-pool/VMware-vPostgres-server-extensions-9.0.22.0-2990740.x86_64.rpm</location>
+    <checksum type="sha1">78d112aaa2f17bec7f989d96267a8c9f669e2d45</checksum>
+  </package>
+  <package name="libexpat1" version="2.0.1-88.34.1" arch="x86_64" type="rpm" size="62174">
+    <location>package-pool/libexpat1-2.0.1-88.34.1.x86_64.rpm</location>
+    <checksum type="sha1">54b6ced026c82d7aaf7fc9814b883198ade28d5b</checksum>
+  </package>
+  <package name="brocade-firmware" version="3.0.2.2-0.8.19" arch="noarch" type="rpm" size="577801">
+    <location>package-pool/brocade-firmware-3.0.2.2-0.8.19.noarch.rpm</location>
+    <checksum type="sha1">18739bd015282dd3afd1ffbbff506053b9f16b78</checksum>
+  </package>
+  <package name="vasecurity" version="5.5.0.30500-1" arch="noarch" type="rpm" size="345629">
+    <location>package-pool/vasecurity-5.5.0.30500-170118042718.noarch.rpm</location>
+    <checksum type="sha1">c05add91f6e6ffdf7695c0ace97907a373d21582</checksum>
+  </package>
+  <package name="libgmodule-2_0-0" version="2.22.5-0.8.10.2" arch="x86_64" type="rpm" size="38617">
+    <location>package-pool/libgmodule-2_0-0-2.22.5-0.8.10.2.x86_64.rpm</location>
+    <checksum type="sha1">afb240b4709027522aaa367639ac04992ac2fc1c</checksum>
+  </package>
+  <package name="glib2-branding-SLES" version="2.16-47.3" arch="noarch" type="rpm" size="5990">
+    <location>package-pool/glib2-branding-SLES-2.16-47.3.noarch.rpm</location>
+    <checksum type="sha1">ffe581610d84edbbbbc5c13aba57075f2bbceef4</checksum>
+  </package>
+  <package name="coreutils" version="8.12-6.25.29.1" arch="x86_64" type="rpm" size="1247787">
+    <location>package-pool/coreutils-8.12-6.25.29.1.x86_64.rpm</location>
+    <checksum type="sha1">1132616fb210368e0354d85077e53551754c902b</checksum>
+  </package>
+  <package name="augeas-lenses" version="0.8.1-7.18.1" arch="x86_64" type="rpm" size="96569">
+    <location>package-pool/augeas-lenses-0.8.1-7.18.1.x86_64.rpm</location>
+    <checksum type="sha1">7f901c68f252ef788c9f215e13973da7f348e89f</checksum>
+  </package>
+  <package name="gettext-runtime" version="0.17-61.40" arch="x86_64" type="rpm" size="715059">
+    <location>package-pool/gettext-runtime-0.17-61.40.x86_64.rpm</location>
+    <checksum type="sha1">b102b20e362d18214d2a53c5ff3197e46dcf1edf</checksum>
+  </package>
+  <package name="yast2-storage" version="2.17.127.2-0.5.3" arch="x86_64" type="rpm" size="637380">
+    <location>package-pool/yast2-storage-2.17.127.2-0.5.3.x86_64.rpm</location>
+    <checksum type="sha1">d7d76eee8543b3dc320287380dc48958d2b88698</checksum>
+  </package>
+  <package name="binutils" version="2.21.1-0.9.2" arch="x86_64" type="rpm" size="3744843">
+    <location>package-pool/binutils-2.21.1-0.9.2.x86_64.rpm</location>
+    <checksum type="sha1">c5b6f1f6e26640f3b3658e2f737d65b4b803d346</checksum>
+  </package>
+  <package name="grub" version="0.97-162.13.12.1" arch="x86_64" type="rpm" size="355685">
+    <location>package-pool/grub-0.97-162.13.12.1.x86_64.rpm</location>
+    <checksum type="sha1">b1386bcac4f75c95d9d5860b6d34afd052d9ab11</checksum>
+  </package>
+  <package name="perl-gettext" version="1.05-91.95" arch="x86_64" type="rpm" size="20913">
+    <location>package-pool/perl-gettext-1.05-91.95.x86_64.rpm</location>
+    <checksum type="sha1">fca63783f4682327454d17b6d964c9a9322dd027</checksum>
+  </package>
+  <package name="limal-ca-mgm" version="1.5.23-0.3.2" arch="x86_64" type="rpm" size="667641">
+    <location>package-pool/limal-ca-mgm-1.5.23-0.3.2.x86_64.rpm</location>
+    <checksum type="sha1">a0cb03099e3525be4e3814e0de6d29bed34a7374</checksum>
+  </package>
+  <package name="libsepol1" version="2.0.41-2.2.9" arch="x86_64" type="rpm" size="97409">
+    <location>package-pool/libsepol1-2.0.41-2.2.9.x86_64.rpm</location>
+    <checksum type="sha1">508af71c2e1e36532901029cb85e7c3b7644082a</checksum>
+  </package>
+  <package name="limal-ca-mgm-perl" version="1.5.23-0.3.2" arch="x86_64" type="rpm" size="357389">
+    <location>package-pool/limal-ca-mgm-perl-1.5.23-0.3.2.x86_64.rpm</location>
+    <checksum type="sha1">4e4cac869a410280c2df8a982662624baec34058</checksum>
+  </package>
+  <package name="vmware-studio-vami-lighttpd" version="2.6.0.2-1191928" arch="x86_64" type="rpm" size="267039">
+    <location>package-pool/vmware-studio-vami-lighttpd_2.6.0.2-1191928_x86_64.rpm</location>
+    <checksum type="sha1">16cf8990a75789aecddaa9a0718a276dc1d54949</checksum>
+  </package>
+  <package name="libapr1" version="1.3.3-11.18.19.8" arch="x86_64" type="rpm" size="127997">
+    <location>package-pool/libapr1-1.3.3-11.18.19.8.x86_64.rpm</location>
+    <checksum type="sha1">dcc443dc17bed80ae8a3c0883f031efc3cbc8f9b</checksum>
+  </package>
+  <package name="multipath-tools" version="0.4.9-0.70.72.1" arch="x86_64" type="rpm" size="201313">
+    <location>package-pool/multipath-tools-0.4.9-0.70.72.1.x86_64.rpm</location>
+    <checksum type="sha1">cb6e8e1f1ce76ca8d3a47d13ed392f572eddfbf1</checksum>
+  </package>
+  <package name="ruby2.1-rubygem-zip" version="2.0.2-2.14" arch="x86_64" type="rpm" size="100067">
+    <location>package-pool/ruby2.1-rubygem-zip-2.0.2-2.14.x86_64.rpm</location>
+    <checksum type="sha1">5f0896767186ce3a71cdfd45fa76dcd2a13780cb</checksum>
+  </package>
+  <package name="yast2-libyui" version="2.21.1-2.5.93" arch="x86_64" type="rpm" size="196080">
+    <location>package-pool/yast2-libyui-2.21.1-2.5.93.x86_64.rpm</location>
+    <checksum type="sha1">b87efb017bb4417c56008c9f29abb4b4343af47b</checksum>
+  </package>
+  <package name="libjpeg" version="6.2.0-879.12.1" arch="x86_64" type="rpm" size="68063">
+    <location>package-pool/libjpeg-6.2.0-879.12.1.x86_64.rpm</location>
+    <checksum type="sha1">a5dfd1cf987d9591df71f907ad6adaa262e9f841</checksum>
+  </package>
+  <package name="vmware-jre" version="1.7.0_95-fcs" arch="x86_64" type="rpm" size="46891149">
+    <location>package-pool/vmware-jre-1.7.0_95-fcs.x86_64.rpm</location>
+    <checksum type="sha1">a88d7cb69873443d204ea77346047ed1e2770d18</checksum>
+  </package>
+  <package name="yast2-installation" version="2.17.99-0.5.22" arch="noarch" type="rpm" size="262445">
+    <location>package-pool/yast2-installation-2.17.99-0.5.22.noarch.rpm</location>
+    <checksum type="sha1">fd535472e171cef9f65c9c8d4d524384ccf28f48</checksum>
+  </package>
+  <package name="krb5" version="1.6.3-133.49.58.1" arch="x86_64" type="rpm" size="528881">
+    <location>package-pool/krb5-1.6.3-133.49.58.1.x86_64.rpm</location>
+    <checksum type="sha1">5e80a16bca9bfd0dc85d0599239bb959ceea51c7</checksum>
+  </package>
+  <package name="glibc" version="2.11.3-17.45.66.1" arch="x86_64" type="rpm" size="1946069">
+    <location>package-pool/glibc-2.11.3-17.45.66.1.x86_64.rpm</location>
+    <checksum type="sha1">c5b7a71d65b4f9fd1f10a76dc1decd97da37d0a9</checksum>
+  </package>
+  <package name="sysvinit" version="2.86-215.1" arch="x86_64" type="rpm" size="208053">
+    <location>package-pool/sysvinit-2.86-215.1.x86_64.rpm</location>
+    <checksum type="sha1">2cd8f3f87b66f5222be6830776da5939ba1fd221</checksum>
+  </package>
+  <package name="libgcc46" version="4.6.1_20110701-0.13.9" arch="x86_64" type="rpm" size="43080">
+    <location>package-pool/libgcc46-4.6.1_20110701-0.13.9.x86_64.rpm</location>
+    <checksum type="sha1">ea5ea6e9bebc7d9a892ccac59eb1ea8a1ce7115d</checksum>
+  </package>
+  <package name="fillup" version="1.42-242.21" arch="x86_64" type="rpm" size="20042">
+    <location>package-pool/fillup-1.42-242.21.x86_64.rpm</location>
+    <checksum type="sha1">a0f0fc8f937064df26d64fd3a5b3253b00f91a92</checksum>
+  </package>
+  <package name="libopensc2" version="0.11.6-5.27.1" arch="x86_64" type="rpm" size="332077">
+    <location>package-pool/libopensc2-0.11.6-5.27.1.x86_64.rpm</location>
+    <checksum type="sha1">c32d30c2de3005ea7ae71d83ffb22225e8388f65</checksum>
+  </package>
+  <package name="yp-tools" version="2.12-0.2.5" arch="x86_64" type="rpm" size="66126">
+    <location>package-pool/yp-tools-2.12-0.2.5.x86_64.rpm</location>
+    <checksum type="sha1">e349bb510fea4f43ad7b28a2a5fdc4fd6c0fd680</checksum>
+  </package>
+  <package name="yast2-branding-SLES-for-VMware" version="2.17.0-0.6.73" arch="noarch" type="rpm" size="10210">
+    <location>package-pool/yast2-branding-SLES-for-VMware-2.17.0-0.6.73.noarch.rpm</location>
+    <checksum type="sha1">2bb50f9d74dcda69d0ba4009627ae97261a06c0f</checksum>
+  </package>
+  <package name="libext2fs2" version="1.41.9-2.9.1" arch="x86_64" type="rpm" size="113797">
+    <location>package-pool/libext2fs2-1.41.9-2.9.1.x86_64.rpm</location>
+    <checksum type="sha1">fe4afb92fe4b13b1b3579053fe81e6a63c6aef87</checksum>
+  </package>
+  <package name="libltdl7" version="2.2.6-2.131.1" arch="x86_64" type="rpm" size="20832">
+    <location>package-pool/libltdl7-2.2.6-2.131.1.x86_64.rpm</location>
+    <checksum type="sha1">4a40f596e4eaab65ca2ee52dc72a2f7e2964f758</checksum>
+  </package>
+  <package name="mpt-firmware" version="1.0-236.22" arch="noarch" type="rpm" size="4494">
+    <location>package-pool/mpt-firmware-1.0-236.22.noarch.rpm</location>
+    <checksum type="sha1">e33b37a220c91e357b7a2e4438a632ac314fe332</checksum>
+  </package>
+  <package name="pciutils" version="3.1.7-11.7.1" arch="x86_64" type="rpm" size="78193">
+    <location>package-pool/pciutils-3.1.7-11.7.1.x86_64.rpm</location>
+    <checksum type="sha1">d8e1298b864f0daef475d7da4ca9e8daed27abac</checksum>
+  </package>
+  <package name="oracle-instantclient11.2-basic" version="11.2.0.2.0-1" arch="x86_64" type="rpm" size="58296106">
+    <location>package-pool/oracle-instantclient11.2-basic-11.2.0.2.0.x86_64.rpm</location>
+    <checksum type="sha1">391f901f5b3fb9518c0f28eb735fc148893a9335</checksum>
+  </package>
+  <package name="cracklib-dict-full" version="2.8.12-43.16" arch="x86_64" type="rpm" size="3776746">
+    <location>package-pool/cracklib-dict-full-2.8.12-43.16.x86_64.rpm</location>
+    <checksum type="sha1">c95d94a0982a8b202cb99027057e824ace4c1315</checksum>
+  </package>
+  <package name="bootsplash-branding-SLES-for-VMware" version="1.0-0.7.54" arch="noarch" type="rpm" size="277295">
+    <location>package-pool/bootsplash-branding-SLES-for-VMware-1.0-0.7.54.noarch.rpm</location>
+    <checksum type="sha1">60554d92f78390cee7cdf0f64e4775f5482fe1e2</checksum>
+  </package>
+  <package name="libasm1" version="0.152-4.7.86" arch="x86_64" type="rpm" size="23992">
+    <location>package-pool/libasm1-0.152-4.7.86.x86_64.rpm</location>
+    <checksum type="sha1">e1a885faa50c6c1f207b618bcd6ae49ba1625377</checksum>
+  </package>
+  <package name="rvc" version="1.3.8-3211004" arch="x86_64" type="rpm" size="3802995">
+    <location>package-pool/rvc_1.3.8-3211004_x86_64.rpm</location>
+    <checksum type="sha1">5849f17aaf60956bf67d5161eccb58b166287e19</checksum>
+  </package>
+  <package name="vmware-tools-guestlib" version="0:10.0.0-1.sles11" arch="x86_64" type="rpm" size="60504">
+    <location>package-pool/vmware-tools-guestlib-10.0.0-1.sles11.x86_64.rpm</location>
+    <checksum type="sha1">37341db1d723c6bd9e50ee86b4603f63a96b9f0c</checksum>
+  </package>
+  <package name="login" version="3.41-0.4.2" arch="x86_64" type="rpm" size="74844">
+    <location>package-pool/login-3.41-0.4.2.x86_64.rpm</location>
+    <checksum type="sha1">604618d85cdd4ace3cd20881c9d842b822a142c9</checksum>
+  </package>
+  <package name="libdw1" version="0.152-4.7.86" arch="x86_64" type="rpm" size="99189">
+    <location>package-pool/libdw1-0.152-4.7.86.x86_64.rpm</location>
+    <checksum type="sha1">516301c723ceaa1a41a08d7a0abb203162bed393</checksum>
+  </package>
+  <package name="yast2-storage-lib" version="2.17.127.2-0.5.3" arch="x86_64" type="rpm" size="693794">
+    <location>package-pool/yast2-storage-lib-2.17.127.2-0.5.3.x86_64.rpm</location>
+    <checksum type="sha1">2e7b57115e2bdd6a105f53501d622a6d4d57310a</checksum>
+  </package>
+  <package name="vmware-tools-vmci-kmp-default" version="0:9.8.1.0_3.0.13_0.27-5.sles11" arch="x86_64" type="rpm" size="55828">
+    <location>package-pool/vmware-tools-vmci-kmp-default-9.8.1.0_3.0.13_0.27-5.sles11.x86_64.rpm</location>
+    <checksum type="sha1">5ace54eb6b945aea7912fcc68b5606460248d58d</checksum>
+  </package>
+  <package name="liblzma5" version="5.0.3-0.12.1" arch="x86_64" type="rpm" size="81075">
+    <location>package-pool/liblzma5-5.0.3-0.12.1.x86_64.rpm</location>
+    <checksum type="sha1">fabdb9725132225f63ccdf2fb62d3ae4ff266eb2</checksum>
+  </package>
+  <package name="iptables" version="1.4.6-2.11.4" arch="x86_64" type="rpm" size="295329">
+    <location>package-pool/iptables-1.4.6-2.11.4.x86_64.rpm</location>
+    <checksum type="sha1">f047361821d5f83f4b1e2f4b0382485ab9a4ec90</checksum>
+  </package>
+  <package name="apache2" version="2.2.12-1.48.1" arch="x86_64" type="rpm" size="787013">
+    <location>package-pool/apache2-2.2.12-1.48.1.x86_64.rpm</location>
+    <checksum type="sha1">4c07871616c2fe4406747c812e8ccb3d4ce34974</checksum>
+  </package>
+  <package name="diffutils" version="2.8.7-143.23.1" arch="x86_64" type="rpm" size="295096">
+    <location>package-pool/diffutils-2.8.7-143.23.1.x86_64.rpm</location>
+    <checksum type="sha1">bcea29c9896fb96ee8085c30683f104268193c80</checksum>
+  </package>
+  <package name="iputils" version="ss021109-292.28.1" arch="x86_64" type="rpm" size="81211">
+    <location>package-pool/iputils-ss021109-292.28.1.x86_64.rpm</location>
+    <checksum type="sha1">386b9fae1bf8a074856ecc6bbedd66e4a9db567b</checksum>
+  </package>
+  <package name="vmware-tools-plugins-vmbackup" version="0:10.0.0-1.sles11" arch="x86_64" type="rpm" size="17809">
+    <location>package-pool/vmware-tools-plugins-vmbackup-10.0.0-1.sles11.x86_64.rpm</location>
+    <checksum type="sha1">7f42a2b6682ff5c54e2f7ebfc06f5fd2626ff0a5</checksum>
+  </package>
+  <package name="wget" version="1.11.4-1.19.1" arch="x86_64" type="rpm" size="421348">
+    <location>package-pool/wget-1.11.4-1.19.1.x86_64.rpm</location>
+    <checksum type="sha1">9395174aecff769d2590da705c68ae78938f9215</checksum>
+  </package>
+  <package name="vfabric-tc-server-standard" version="2.9.5-SR1" arch="noarch" type="rpm" size="21179462">
+    <location>package-pool/vfabric-tc-server-standard-2.9.5-SR1.noarch.rpm</location>
+    <checksum type="sha1">04a1ea0a1d62bbb9eab328b1789adb5205888d51</checksum>
+  </package>
+  <package name="vmware-studio-vami-login" version="2.6.0.2-1191928" arch="x86_64" type="rpm" size="263929">
+    <location>package-pool/vmware-studio-vami-login_2.6.0.2-1191928_x86_64.rpm</location>
+    <checksum type="sha1">f868f74447a6f614654d1c4506f78c46655b779b</checksum>
+  </package>
+  <package name="mingetty" version="1.0.7s-92.22" arch="x86_64" type="rpm" size="14474">
+    <location>package-pool/mingetty-1.0.7s-92.22.x86_64.rpm</location>
+    <checksum type="sha1">0808d7de1748d109b753b5da6ce8badeb7b420ff</checksum>
+  </package>
+  <package name="adaptec-firmware" version="1.35-2.8" arch="noarch" type="rpm" size="21176">
+    <location>package-pool/adaptec-firmware-1.35-2.8.noarch.rpm</location>
+    <checksum type="sha1">41e2a4e8054a533e4ba591980cf7e8191dc74260</checksum>
+  </package>
+  <package name="python-xml" version="2.6.9-0.31.1" arch="x86_64" type="rpm" size="193668">
+    <location>package-pool/python-xml-2.6.9-0.31.1.x86_64.rpm</location>
+    <checksum type="sha1">0a40245d1eb9be4dd1481910e817e4d33cab94e6</checksum>
+  </package>
+  <package name="suseRegister" version="1.4-1.26.5.1" arch="noarch" type="rpm" size="54339">
+    <location>package-pool/suseRegister-1.4-1.26.5.1.noarch.rpm</location>
+    <checksum type="sha1">fda3e8410c107642f756f5eb5a9654a1e87dfff9</checksum>
+  </package>
+  <package name="klogd" version="1.4.1-708.39.1" arch="x86_64" type="rpm" size="40111">
+    <location>package-pool/klogd-1.4.1-708.39.1.x86_64.rpm</location>
+    <checksum type="sha1">61d9d3534de2bd45370755984b03e1df99752cd0</checksum>
+  </package>
+  <package name="VMware-sps" version="5.5.0-4935376" arch="x86_64" type="rpm" size="44004712">
+    <location>package-pool/VMware-sps-5.5.0-4935376.x86_64.rpm</location>
+    <checksum type="sha1">6011b65be19d12153aef4c123ec738f6c241f758</checksum>
+  </package>
+  <package name="libudev0" version="147-0.69.71.1" arch="x86_64" type="rpm" size="45253">
+    <location>package-pool/libudev0-147-0.69.71.1.x86_64.rpm</location>
+    <checksum type="sha1">e1e03a635d1f3aa9142b9b8053694c588425b7fc</checksum>
+  </package>
+  <package name="vmware-tools-vgauth" version="0:10.0.0-1.sles11" arch="x86_64" type="rpm" size="461288">
+    <location>package-pool/vmware-tools-vgauth-10.0.0-1.sles11.x86_64.rpm</location>
+    <checksum type="sha1">12aa1e38e99aecde6cf453b519ee1931c3aaf9e9</checksum>
+  </package>
+  <package name="pmtools" version="20071116-44.20.4.1" arch="x86_64" type="rpm" size="358499">
+    <location>package-pool/pmtools-20071116-44.20.4.1.x86_64.rpm</location>
+    <checksum type="sha1">88312e2dc55214fd0b5b69193b043f4e6ce5b9a8</checksum>
+  </package>
+  <package name="yast2-add-on" version="2.17.28-0.5.95" arch="noarch" type="rpm" size="49043">
+    <location>package-pool/yast2-add-on-2.17.28-0.5.95.noarch.rpm</location>
+    <checksum type="sha1">38e2d0b3917972c54819e408e5d9a1af43ec1a81</checksum>
+  </package>
+  <package name="ruby2.1-rubygem-backports" version="3.6.6-1.3" arch="x86_64" type="rpm" size="197700">
+    <location>package-pool/ruby2.1-rubygem-backports-3.6.6-1.3.x86_64.rpm</location>
+    <checksum type="sha1">fd36cbc5bb5002b48d8a24f8e86070b34297b488</checksum>
+  </package>
+  <package name="rubygem-nokogiri" version="1.50-1" arch="x86_64" type="rpm" size="823967">
+    <location>package-pool/rubygem-nokogiri_1.50-1_x86_64.rpm</location>
+    <checksum type="sha1">57f5821bb30161e34b5f4c0b4a3f33d064241b13</checksum>
+  </package>
+  <package name="cpio" version="2.9-75.76.1" arch="x86_64" type="rpm" size="81052">
+    <location>package-pool/cpio-2.9-75.76.1.x86_64.rpm</location>
+    <checksum type="sha1">4458ed5e0bd2756a663fcdca7499851f099e8e65</checksum>
+  </package>
+  <package name="rubygem-trollop" version="1.16.2-1" arch="x86_64" type="rpm" size="22557">
+    <location>package-pool/rubygem-trollop_1.16.2-1_x86_64.rpm</location>
+    <checksum type="sha1">d54797f0db44b232ac6228460775285d0b606009</checksum>
+  </package>
+  <package name="iproute2" version="2.6.29.1-6.22.48" arch="x86_64" type="rpm" size="948714">
+    <location>package-pool/iproute2-2.6.29.1-6.22.48.x86_64.rpm</location>
+    <checksum type="sha1">192632e7e0e531b4bb9ebdc871b1fa5075b0cc8b</checksum>
+  </package>
+  <package name="procps" version="3.2.7-151.26.1" arch="x86_64" type="rpm" size="206856">
+    <location>package-pool/procps-3.2.7-151.26.1.x86_64.rpm</location>
+    <checksum type="sha1">668568be11a87bb2d0f79419f2eb5291c3fa80fe</checksum>
+  </package>
+  <package name="VMware-vpxd-tomcat" version="5.5.0-4935376" arch="x86_64" type="rpm" size="106449419">
+    <location>package-pool/VMware-vpxd-tomcat-5.5.0-4935376.x86_64.rpm</location>
+    <checksum type="sha1">64c3fe41634cf730bd2e157f8a7a35fdc0f7d82a</checksum>
+  </package>
+  <package name="vmware-studio-vami-service-system" version="2.6.0.2-0" arch="x86_64" type="rpm" size="547733">
+    <location>package-pool/vmware-studio-vami-service-system_2.6.0.2-1484742426-0_x86_64.rpm</location>
+    <checksum type="sha1">655f827ebb0db2137f4e4f496be2df73223f6b62</checksum>
+  </package>
+  <package name="m4" version="1.4.12-1.19" arch="x86_64" type="rpm" size="238850">
+    <location>package-pool/m4-1.4.12-1.19.x86_64.rpm</location>
+    <checksum type="sha1">394d96214dd4f8c52b9e712950f893219c5adaa5</checksum>
+  </package>
+  <package name="vim-base" version="7.2-8.15.2" arch="x86_64" type="rpm" size="173035">
+    <location>package-pool/vim-base-7.2-8.15.2.x86_64.rpm</location>
+    <checksum type="sha1">6be77b87b55ccc94e5d13c17d87359b03b7736d3</checksum>
+  </package>
+  <package name="lsof" version="4.80-1.28.1" arch="x86_64" type="rpm" size="320549">
+    <location>package-pool/lsof-4.80-1.28.1.x86_64.rpm</location>
+    <checksum type="sha1">d382327febf1413bf64e6b653fdcf73f32c7a419</checksum>
+  </package>
+  <package name="hwinfo" version="15.48-0.6.6.1" arch="x86_64" type="rpm" size="590659">
+    <location>package-pool/hwinfo-15.48-0.6.6.1.x86_64.rpm</location>
+    <checksum type="sha1">f40ff511aa5af32945150d84e58b24b1a6f12772</checksum>
+  </package>
+  <package name="vmware-tools-esx-nox" version="0:10.0.0-1.sles11" arch="x86_64" type="rpm" size="3168">
+    <location>package-pool/vmware-tools-esx-nox-10.0.0-1.sles11.x86_64.rpm</location>
+    <checksum type="sha1">25eff6e88ddb881364cb78ccbe9ba7a663432455</checksum>
+  </package>
+  <package name="sazanami-fonts" version="20040629-187.17" arch="noarch" type="rpm" size="7533330">
+    <location>package-pool/sazanami-fonts-20040629-187.17.noarch.rpm</location>
+    <checksum type="sha1">8edadb3331bafa7507b38ff568af213524b22d76</checksum>
+  </package>
+  <package name="liblcms1" version="1.17-77.16.1" arch="x86_64" type="rpm" size="94703">
+    <location>package-pool/liblcms1-1.17-77.16.1.x86_64.rpm</location>
+    <checksum type="sha1">d8cf96923ba725277b928fbb601c8ece3e1393a0</checksum>
+  </package>
+  <package name="libgpg-error0" version="1.10-0.7.29" arch="x86_64" type="rpm" size="42878">
+    <location>package-pool/libgpg-error0-1.10-0.7.29.x86_64.rpm</location>
+    <checksum type="sha1">9b0a87da0b84ed1482c8fcc798fb16be4274b757</checksum>
+  </package>
+  <package name="zip" version="3.0-4.7.1" arch="x86_64" type="rpm" size="258503">
+    <location>package-pool/zip-3.0-4.7.1.x86_64.rpm</location>
+    <checksum type="sha1">bb44d70ddf003d513c41a6c73817e6f2def82d5b</checksum>
+  </package>
+  <package name="dhcp-server" version="4.2.4.P2-0.11.13.1" arch="x86_64" type="rpm" size="1015918">
+    <location>package-pool/dhcp-server-4.2.4.P2-0.11.13.1.x86_64.rpm</location>
+    <checksum type="sha1">d95cbce3c1bc426c557764d1ef8c57ddcf913076</checksum>
+  </package>
+  <package name="vmware-esx-netdumper" version="5.5.0-0.0.4912127" arch="i386" type="rpm" size="422424">
+    <location>package-pool/vmware-esx-netdumper-5.5.0-0.0.4912127.i386.rpm</location>
+    <checksum type="sha1">4a830a255306bcb9c576045caffc4a4aca82407b</checksum>
+  </package>
+  <package name="vmware-studio-vami-service-upgrade" version="5.5.0-4923587" arch="x86_64" type="rpm" size="1463104">
+    <location>package-pool/vmware-studio-vami-service-upgrade-5.5.0-4923587.x86_64.rpm</location>
+    <checksum type="sha1">f966497eb539709af2bf50f97541b121a529fb62</checksum>
+  </package>
+  <package name="libldapcpp1" version="0.3.0-0.6.88" arch="x86_64" type="rpm" size="86445">
+    <location>package-pool/libldapcpp1-0.3.0-0.6.88.x86_64.rpm</location>
+    <checksum type="sha1">b1f28c0f8ab2a3ebb305e1569fb43f8ab849bb39</checksum>
+  </package>
+  <package name="limal-perl" version="1.5.3-0.2.11" arch="x86_64" type="rpm" size="106976">
+    <location>package-pool/limal-perl-1.5.3-0.2.11.x86_64.rpm</location>
+    <checksum type="sha1">c64b968bf2d30242460c328aa0e2858877ad8d3f</checksum>
+  </package>
+  <package name="libnet" version="1.1.2.1-140.24.1" arch="x86_64" type="rpm" size="223134">
+    <location>package-pool/libnet-1.1.2.1-140.24.1.x86_64.rpm</location>
+    <checksum type="sha1">fe5594ea1137c14c5be40591081f2bc519e86de3</checksum>
+  </package>
+  <package name="rpm" version="4.4.2.3-37.56.1" arch="x86_64" type="rpm" size="1675325">
+    <location>package-pool/rpm-4.4.2.3-37.56.1.x86_64.rpm</location>
+    <checksum type="sha1">35aa6a5b0868112ea30630601ff96a2c7fb6f200</checksum>
+  </package>
+  <package name="libreiserfs" version="0.3.0.5-143.3" arch="x86_64" type="rpm" size="43639">
+    <location>package-pool/libreiserfs-0.3.0.5-143.3.x86_64.rpm</location>
+    <checksum type="sha1">1a86cba0dc997f8f5e41686465009660c73f9cbf</checksum>
+  </package>
+  <package name="openssl-certs" version="1.96-0.4.1" arch="noarch" type="rpm" size="160933">
+    <location>package-pool/openssl-certs-1.96-0.4.1.noarch.rpm</location>
+    <checksum type="sha1">3da6248f135517a02455dd5789f3b974aa55103b</checksum>
+  </package>
+  <package name="openssl" version="0.9.8j-0.80.1" arch="x86_64" type="rpm" size="542568">
+    <location>package-pool/openssl-0.9.8j-0.80.1.x86_64.rpm</location>
+    <checksum type="sha1">01fd4fbf93db3107c7e9853509222511b85d73f7</checksum>
+  </package>
+  <package name="libtirpc1" version="0.2.1-1.5.1" arch="x86_64" type="rpm" size="71667">
+    <location>package-pool/libtirpc1-0.2.1-1.5.1.x86_64.rpm</location>
+    <checksum type="sha1">3ca91d31663baa0cba97d1c6dbb608c21f47538a</checksum>
+  </package>
+  <package name="vmware-autodeploy" version="5.5.0-0.0.4912136" arch="noarch" type="rpm" size="9433062">
+    <location>package-pool/vmware-autodeploy-5.5.0-0.0.4912136.noarch.rpm</location>
+    <checksum type="sha1">d1b132015c034aba88dbf59143f2a4eb09548984</checksum>
+  </package>
+  <package name="yast2-bootloader" version="2.17.86-0.5.20" arch="x86_64" type="rpm" size="357683">
+    <location>package-pool/yast2-bootloader-2.17.86-0.5.20.x86_64.rpm</location>
+    <checksum type="sha1">4307609cd4b0e1f822700b81bd77e79435f9c72f</checksum>
+  </package>
+  <package name="pcre" version="7.8-2.18" arch="x86_64" type="rpm" size="389152">
+    <location>package-pool/pcre-7.8-2.18.x86_64.rpm</location>
+    <checksum type="sha1">23c28c478631b2ef70efa52606a4e6bcbd435f3b</checksum>
+  </package>
+  <package name="netcfg" version="11.2-0.5.2" arch="noarch" type="rpm" size="251235">
+    <location>package-pool/netcfg-11.2-0.5.2.noarch.rpm</location>
+    <checksum type="sha1">27df73241686bbd6aba586fc16a579559e6e8be8</checksum>
+  </package>
+  <package name="glib2" version="2.22.5-0.8.10.2" arch="x86_64" type="rpm" size="162070">
+    <location>package-pool/glib2-2.22.5-0.8.10.2.x86_64.rpm</location>
+    <checksum type="sha1">3e57f8fca58dfff3f60a8dae7669ce09f63185c0</checksum>
+  </package>
+  <package name="filesystem" version="11.1-3.5.3" arch="x86_64" type="rpm" size="51274">
+    <location>package-pool/filesystem-11.1-3.5.3.x86_64.rpm</location>
+    <checksum type="sha1">93cf6acab6c7c42abc4a36f90501d29159af02ad</checksum>
+  </package>
+  <package name="vmware-tools-vmxnet-kmp-default" version="0:2.1.0.0_3.0.13_0.27-5.sles11" arch="x86_64" type="rpm" size="18880">
+    <location>package-pool/vmware-tools-vmxnet-kmp-default-2.1.0.0_3.0.13_0.27-5.sles11.x86_64.rpm</location>
+    <checksum type="sha1">fb7d1df7076a89d654f420e8063322f16d10ffdd</checksum>
+  </package>
+  <package name="desktop-translations" version="11.1-10.37.1" arch="noarch" type="rpm" size="2324528">
+    <location>package-pool/desktop-translations-11.1-10.37.1.noarch.rpm</location>
+    <checksum type="sha1">b1600ce0c497caf322822ed1e9b2e6bd09d56534</checksum>
+  </package>
+  <package name="libselinux1" version="2.0.91-4.2.1" arch="x86_64" type="rpm" size="52764">
+    <location>package-pool/libselinux1-2.0.91-4.2.1.x86_64.rpm</location>
+    <checksum type="sha1">f735bd7c1be2baddae4608b18847ca6af38f369e</checksum>
+  </package>
+  <package name="yast2-users" version="2.17.51-0.5.166" arch="x86_64" type="rpm" size="218874">
+    <location>package-pool/yast2-users-2.17.51-0.5.166.x86_64.rpm</location>
+    <checksum type="sha1">4a1e30e77c52626434297fdc280091c9fa441585</checksum>
+  </package>
+  <package name="sqlite3" version="3.7.6.3-1.4.4.1" arch="x86_64" type="rpm" size="49248">
+    <location>package-pool/sqlite3-3.7.6.3-1.4.4.1.x86_64.rpm</location>
+    <checksum type="sha1">bd41fb44240ed9f597ae58d361233b6ea5cae2f4</checksum>
+  </package>
+  <package name="vmware-studio-vami-servicebase" version="2.6.0.2-1191928" arch="x86_64" type="rpm" size="3331">
+    <location>package-pool/vmware-studio-vami-servicebase_2.6.0.2-1191928_x86_64.rpm</location>
+    <checksum type="sha1">0946692b63fcf9cb1e710ede8da7e1c11e4d0890</checksum>
+  </package>
+  <package name="kernel-default-base" version="3.0.101-0.7.37.1" arch="x86_64" type="rpm" size="13885144">
+    <location>package-pool/kernel-default-base-3.0.101-0.7.37.1.x86_64.rpm</location>
+    <checksum type="sha1">2837572894cb47e8772f6949dc65324f96c58670</checksum>
+  </package>
+  <package name="opensc" version="0.11.6-5.27.1" arch="x86_64" type="rpm" size="503870">
+    <location>package-pool/opensc-0.11.6-5.27.1.x86_64.rpm</location>
+    <checksum type="sha1">b534c5a24c977890621f2b1d94ac47534670b16a</checksum>
+  </package>
+  <package name="vmware-tools-services" version="0:10.0.0-1.sles11" arch="x86_64" type="rpm" size="399908">
+    <location>package-pool/vmware-tools-services-10.0.0-1.sles11.x86_64.rpm</location>
+    <checksum type="sha1">f40b648592f7a32764944986b36e7109814564c2</checksum>
+  </package>
+  <package name="perl-base" version="5.10.0-64.61.61.1" arch="x86_64" type="rpm" size="1150970">
+    <location>package-pool/perl-base-5.10.0-64.61.61.1.x86_64.rpm</location>
+    <checksum type="sha1">22485493cc55ff93cfc22714b1e71191bbb05659</checksum>
+  </package>
+  <package name="PolicyKit-doc" version="0.9-14.39.2" arch="x86_64" type="rpm" size="342854">
+    <location>package-pool/PolicyKit-doc-0.9-14.39.2.x86_64.rpm</location>
+    <checksum type="sha1">4cc0e5c9b6ebc16ef72ea9a67ede23593827e845</checksum>
+  </package>
+  <package name="strace" version="4.5.18-10.22.1" arch="x86_64" type="rpm" size="99824">
+    <location>package-pool/strace-4.5.18-10.22.1.x86_64.rpm</location>
+    <checksum type="sha1">fed7d0ac4e444ae48796e9df4ecb300a36ac8811</checksum>
+  </package>
+  <package name="tcpd" version="7.6-856.13" arch="x86_64" type="rpm" size="79202">
+    <location>package-pool/tcpd-7.6-856.13.x86_64.rpm</location>
+    <checksum type="sha1">d103775265668728ce23756eec8301a4823a1c4d</checksum>
+  </package>
+  <package name="libuuid1" version="2.19.1-6.33.47.1" arch="x86_64" type="rpm" size="34626">
+    <location>package-pool/libuuid1-2.19.1-6.33.47.1.x86_64.rpm</location>
+    <checksum type="sha1">1c38568cbac9547eaea86f27642641dcb7e1f0e2</checksum>
+  </package>
+  <package name="ncurses-utils" version="5.6-90.55" arch="x86_64" type="rpm" size="74037">
+    <location>package-pool/ncurses-utils-5.6-90.55.x86_64.rpm</location>
+    <checksum type="sha1">71fe66053cb5b966be949383b0586cbab418ba97</checksum>
+  </package>
+  <package name="vmware-studio-init" version="2.6.0.2-170118042704" arch="noarch" type="rpm" size="15614">
+    <location>package-pool/vmware-studio-init_2.6.0.2-170118042704_i386.rpm</location>
+    <checksum type="sha1">efcaca4802c94b789c169acbcae74243ee69f99a</checksum>
+  </package>
+  <package name="gpg2-lang" version="2.0.9-25.33.37.6" arch="x86_64" type="rpm" size="481953">
+    <location>package-pool/gpg2-lang-2.0.9-25.33.37.6.x86_64.rpm</location>
+    <checksum type="sha1">a6415840141d6b80c649b6c9f4a6b2ad336943d4</checksum>
+  </package>
+  <package name="VMware-vpxd-agents-esx3" version="5.5.0-4935376" arch="x86_64" type="rpm" size="28278030">
+    <location>package-pool/VMware-vpxd-agents-esx3-5.5.0-4935376.x86_64.rpm</location>
+    <checksum type="sha1">94140d765802c8e9700f5363450a4d2728458a37</checksum>
+  </package>
+  <package name="perl-URI" version="1.37-1.22" arch="x86_64" type="rpm" size="113129">
+    <location>package-pool/perl-URI-1.37-1.22.x86_64.rpm</location>
+    <checksum type="sha1">100e3d7039c7a9304d601735f218de363f7dc3f5</checksum>
+  </package>
+  <package name="master-boot-code" version="1.14-70.11" arch="i586" type="rpm" size="4835">
+    <location>package-pool/master-boot-code-1.14-70.11.i586.rpm</location>
+    <checksum type="sha1">b72ba2bd2add7ee40032174edbf994968865d16f</checksum>
+  </package>
+  <package name="VMware-vpxd-client" version="5.5.0-4935376" arch="x86_64" type="rpm" size="380363172">
+    <location>package-pool/VMware-vpxd-client-5.5.0-4935376.x86_64.rpm</location>
+    <checksum type="sha1">9032a7354a258a78da23e37f1f44a7afa6a23613</checksum>
+  </package>
+  <package name="libaio" version="0.3.109-0.1.46" arch="x86_64" type="rpm" size="14865">
+    <location>package-pool/libaio-0.3.109-0.1.46.x86_64.rpm</location>
+    <checksum type="sha1">379a95ba34fdaa65ef3fa39d81bd1a5a86373ac6</checksum>
+  </package>
+  <package name="yast2-security" version="2.17.15-0.5.214" arch="noarch" type="rpm" size="52020">
+    <location>package-pool/yast2-security-2.17.15-0.5.214.noarch.rpm</location>
+    <checksum type="sha1">59054bb2eb6a3fd460ed893d481b35b27f7c7a61</checksum>
+  </package>
+  <package name="yast2-core" version="2.17.45-0.5.1" arch="x86_64" type="rpm" size="1032265">
+    <location>package-pool/yast2-core-2.17.45-0.5.1.x86_64.rpm</location>
+    <checksum type="sha1">693de9a180f9b5953d0affc653b5de3242c8d1a7</checksum>
+  </package>
+  <package name="rubygem-ffi" version="1.0.11-1" arch="x86_64" type="rpm" size="1698310">
+    <location>package-pool/rubygem-ffi_1.0.11-1_x86_64.rpm</location>
+    <checksum type="sha1">60e85ca236b87a3fdf306f4b6c5a41bf2d69c3f0</checksum>
+  </package>
+  <package name="perl-TimeDate" version="1.16-71.22" arch="x86_64" type="rpm" size="34204">
+    <location>package-pool/perl-TimeDate-1.16-71.22.x86_64.rpm</location>
+    <checksum type="sha1">48aaec521402e803d5dfa2cb74b786aef230ea73</checksum>
+  </package>
+  <package name="VMware-inventoryservice" version="5.5.0-4935376" arch="x86_64" type="rpm" size="41588665">
+    <location>package-pool/VMware-inventoryservice-5.5.0-4935376.x86_64.rpm</location>
+    <checksum type="sha1">e831fd3a93c69c326b90530e36a47b14987f6aac</checksum>
+  </package>
+  <package name="glibc-locale" version="2.11.3-17.45.66.1" arch="x86_64" type="rpm" size="11907110">
+    <location>package-pool/glibc-locale-2.11.3-17.45.66.1.x86_64.rpm</location>
+    <checksum type="sha1">4d67ed85944f8762d45eee11f480421c7a19b518</checksum>
+  </package>
+  <package name="ntp" version="4.2.4p8-1.29.32.1" arch="x86_64" type="rpm" size="476533">
+    <location>package-pool/ntp-4.2.4p8-1.29.32.1.x86_64.rpm</location>
+    <checksum type="sha1">63ab528fd023ce8f50dabb1e2d700d921185f465</checksum>
+  </package>
+  <package name="yast2-online-update" version="2.17.21-0.1.89" arch="noarch" type="rpm" size="48187">
+    <location>package-pool/yast2-online-update-2.17.21-0.1.89.noarch.rpm</location>
+    <checksum type="sha1">6dfac4855b25e337fe493021033243323b3426b7</checksum>
+  </package>
+  <package name="perl-XML-Simple" version="2.18-1.15" arch="x86_64" type="rpm" size="71839">
+    <location>package-pool/perl-XML-Simple-2.18-1.15.x86_64.rpm</location>
+    <checksum type="sha1">1a7b3889e0279fe1355f7efabcf0f01b0ebf6373</checksum>
+  </package>
+  <package name="ruby2.1-rubygem-mini_portile" version="0.6.2-27.9" arch="x86_64" type="rpm" size="26022">
+    <location>package-pool/ruby2.1-rubygem-mini_portile-0.6.2-27.9.x86_64.rpm</location>
+    <checksum type="sha1">3af2f07c25a1ab657545a4a5f68fb40727ea126e</checksum>
+  </package>
+  <package name="yast2-registration-branding-SLE" version="2.17.35.4-0.5.1" arch="noarch" type="rpm" size="11786">
+    <location>package-pool/yast2-registration-branding-SLE-2.17.35.4-0.5.1.noarch.rpm</location>
+    <checksum type="sha1">71f36d40b6fae56d8abd9a742b6f9f52aafdcf6a</checksum>
+  </package>
+  <package name="yast2-ncurses-pkg" version="2.17.20-0.5.1" arch="x86_64" type="rpm" size="238373">
+    <location>package-pool/yast2-ncurses-pkg-2.17.20-0.5.1.x86_64.rpm</location>
+    <checksum type="sha1">144a8403db2d4cb8e81e4646adc83d6a4ea62ad2</checksum>
+  </package>
+  <package name="perl-XML-Writer" version="0.604-2.10" arch="x86_64" type="rpm" size="24504">
+    <location>package-pool/perl-XML-Writer-0.604-2.10.x86_64.rpm</location>
+    <checksum type="sha1">e3df213870ecf08e41980f20c92549f8ac0b99cb</checksum>
+  </package>
+  <package name="yast2-dbus-server" version="2.17.5-0.5.1" arch="x86_64" type="rpm" size="117799">
+    <location>package-pool/yast2-dbus-server-2.17.5-0.5.1.x86_64.rpm</location>
+    <checksum type="sha1">4bfafd6582059207cf4db5d85fbd0a184c84b5e8</checksum>
+  </package>
+  <package name="python-lxml" version="2.3.6-1.vmw.2136763" arch="x86_64" type="rpm" size="1774781">
+    <location>package-pool/python-lxml-2.3.6-1.vmw.2136763.x86_64.rpm</location>
+    <checksum type="sha1">5baee4776fb1b05d1445f73c5646f94328df2296</checksum>
+  </package>
+  <package name="libyaml-0-2" version="0.1.3-1.1" arch="x86_64" type="rpm" size="48384">
+    <location>package-pool/libyaml-0-2-0.1.3-1.1.x86_64.rpm</location>
+    <checksum type="sha1">4b1b3861818f74260a1e79547a84560e4b09e79e</checksum>
+  </package>
+  <package name="yast2-pam" version="2.17.3-0.5.211" arch="noarch" type="rpm" size="29825">
+    <location>package-pool/yast2-pam-2.17.3-0.5.211.noarch.rpm</location>
+    <checksum type="sha1">80111459c186ab22211fd49c1cdd83318b0e990e</checksum>
+  </package>
+  <package name="yast2-hardware-detection" version="2.17.2-2.7.1" arch="x86_64" type="rpm" size="99285">
+    <location>package-pool/yast2-hardware-detection-2.17.2-2.7.1.x86_64.rpm</location>
+    <checksum type="sha1">e2e818593125d4fa80ec4134d65cc56c7141ec5a</checksum>
+  </package>
+  <package name="libxml2" version="2.7.6-0.25.1" arch="x86_64" type="rpm" size="615131">
+    <location>package-pool/libxml2-2.7.6-0.25.1.x86_64.rpm</location>
+    <checksum type="sha1">d9a4b643f76f8f6b01fdec38557cca4fd0314cc7</checksum>
+  </package>
+  <package name="kernel-firmware" version="20110923-0.19.23.1" arch="noarch" type="rpm" size="12851780">
+    <location>package-pool/kernel-firmware-20110923-0.19.23.1.noarch.rpm</location>
+    <checksum type="sha1">0316856460623f25865fdd0ff80bb2f70477e8e8</checksum>
+  </package>
+  <package name="libpython2_6-1_0" version="2.6.9-0.31.1" arch="x86_64" type="rpm" size="575548">
+    <location>package-pool/libpython2_6-1_0-2.6.9-0.31.1.x86_64.rpm</location>
+    <checksum type="sha1">e9bbd67fc1b7e0d9af2406da4150fe293572e919</checksum>
+  </package>
+  <package name="elilo" version="3.14-0.10.11.11" arch="x86_64" type="rpm" size="113641">
+    <location>package-pool/elilo-3.14-0.10.11.11.x86_64.rpm</location>
+    <checksum type="sha1">76bede763ad973541ca3f34c3c5cbd0be2387edd</checksum>
+  </package>
+  <package name="gawk" version="3.1.8-2.6.1" arch="x86_64" type="rpm" size="791088">
+    <location>package-pool/gawk-3.1.8-2.6.1.x86_64.rpm</location>
+    <checksum type="sha1">d1daae2b69167e0490c138b047006412077ed2e1</checksum>
+  </package>
+  <package name="perl-Bootloader" version="0.4.89.46-0.5.2" arch="x86_64" type="rpm" size="154668">
+    <location>package-pool/perl-Bootloader-0.4.89.46-0.5.2.x86_64.rpm</location>
+    <checksum type="sha1">a40881d6e4dd72268ef3e63b7ae1ebad4b7519ca</checksum>
+  </package>
+  <package name="checkmedia" version="2.2-1.22" arch="x86_64" type="rpm" size="17155">
+    <location>package-pool/checkmedia-2.2-1.22.x86_64.rpm</location>
+    <checksum type="sha1">285153daf1c76cb938511e9d2feaf71f25404761</checksum>
+  </package>
+  <package name="vmware-studio-vami-cimom" version="2.6.0.2-1191928" arch="x86_64" type="rpm" size="1729916">
+    <location>package-pool/vmware-studio-vami-cimom_2.6.0.2-1191928_x86_64.rpm</location>
+    <checksum type="sha1">038c8eb28bb862e3e8dab43fd4a5cc85c9afb429</checksum>
+  </package>
+  <package name="xz-lang" version="5.0.3-0.12.1" arch="x86_64" type="rpm" size="35915">
+    <location>package-pool/xz-lang-5.0.3-0.12.1.x86_64.rpm</location>
+    <checksum type="sha1">d7b52eebbf6b1da42a6d74083e54a070cd8daaa7</checksum>
+  </package>
+  <package name="vmware-tools-plugins-guestInfo" version="0:10.0.0-1.sles11" arch="x86_64" type="rpm" size="26629">
+    <location>package-pool/vmware-tools-plugins-guestInfo-10.0.0-1.sles11.x86_64.rpm</location>
+    <checksum type="sha1">e20995b5a1661dca612b7d25fbce6f4985a0fd06</checksum>
+  </package>
+  <package name="info" version="4.12-1.86" arch="x86_64" type="rpm" size="162713">
+    <location>package-pool/info-4.12-1.86.x86_64.rpm</location>
+    <checksum type="sha1">5c84cb420b77079daff1bd41f459ca77c8072eed</checksum>
+  </package>
+  <package name="libnscd" version="2.0.2-73.18" arch="x86_64" type="rpm" size="15535">
+    <location>package-pool/libnscd-2.0.2-73.18.x86_64.rpm</location>
+    <checksum type="sha1">368e26306efc05a231ce021586b0022ae44f814f</checksum>
+  </package>
+  <package name="libapr-util1" version="1.3.4-12.22.21.2" arch="x86_64" type="rpm" size="94506">
+    <location>package-pool/libapr-util1-1.3.4-12.22.21.2.x86_64.rpm</location>
+    <checksum type="sha1">cd4b5fb6ebd3bc6c4bd7a9e67d133b86cf776f6f</checksum>
+  </package>
+  <package name="vmware-tools-libraries-nox" version="0:10.0.0-1.sles11" arch="x86_64" type="rpm" size="4664536">
+    <location>package-pool/vmware-tools-libraries-nox-10.0.0-1.sles11.x86_64.rpm</location>
+    <checksum type="sha1">885c8fb0bc6fbc3403ebcf0755128bec5eced5f9</checksum>
+  </package>
+  <package name="zypper-log" version="1.6.178-0.5.3.6545.0.PTF.862471" arch="x86_64" type="rpm" size="73250">
+    <location>package-pool/zypper-log-1.6.178-0.5.3.6545.0.PTF.862471.x86_64.rpm</location>
+    <checksum type="sha1">964a7da0821fbb113f307a35cc7298332a6353ba</checksum>
+  </package>
+  <package name="libreadline6" version="6.1-1.4" arch="x86_64" type="rpm" size="113341">
+    <location>package-pool/libreadline6-6.1-1.4.x86_64.rpm</location>
+    <checksum type="sha1">12b2f3d3141da662dac0ab4c29ec5e80cc4541c9</checksum>
+  </package>
+  <package name="libxml2-python" version="2.7.6-0.25.1" arch="x86_64" type="rpm" size="164968">
+    <location>package-pool/libxml2-python-2.7.6-0.25.1.x86_64.rpm</location>
+    <checksum type="sha1">c4a1442e921f92431e48215c08c8d5ddd2e77260</checksum>
+  </package>
+  <package name="pam-config" version="0.79-2.5.58" arch="x86_64" type="rpm" size="109966">
+    <location>package-pool/pam-config-0.79-2.5.58.x86_64.rpm</location>
+    <checksum type="sha1">68cf39dea3de69e42a811ed8fd278dea06cc1f98</checksum>
+  </package>
+  <package name="tunctl" version="20070815-10.22" arch="x86_64" type="rpm" size="6426">
+    <location>package-pool/tunctl-20070815-10.22.x86_64.rpm</location>
+    <checksum type="sha1">ec0bfdb90f00a79244e242e49c6a7d64b7f25515</checksum>
+  </package>
+  <package name="lcms" version="1.17-77.16.1" arch="x86_64" type="rpm" size="50008">
+    <location>package-pool/lcms-1.17-77.16.1.x86_64.rpm</location>
+    <checksum type="sha1">f53119fa78dea9a6d48186eccf612dec69897cc4</checksum>
+  </package>
+  <package name="libffi5" version="3.0.9-7.1" arch="x86_64" type="rpm" size="17447">
+    <location>package-pool/libffi5-3.0.9-7.1.x86_64.rpm</location>
+    <checksum type="sha1">dfffaa17d3c36fd8460d6dafd73908d787cd0641</checksum>
+  </package>
+  <package name="vmware-studio-vami-service-network" version="2.6.0.2-0" arch="x86_64" type="rpm" size="575622">
+    <location>package-pool/vmware-studio-vami-service-network_2.6.0.2-1484742426-0_x86_64.rpm</location>
+    <checksum type="sha1">53413255a1ace5b85da4a01a9e6a6b01771cca21</checksum>
+  </package>
+  <package name="vmware-identity-sts" version="2.0.0-3967771" arch="noarch" type="rpm" size="62757258">
+    <location>package-pool/vmware-identity-sts-2.0.0-3967771.noarch.rpm</location>
+    <checksum type="sha1">eb07652a1fbd859d0f0aa9ca78e47752455b4c73</checksum>
+  </package>
+  <package name="bash-doc" version="3.2-147.14.22.1.7400.0.PTF.898880" arch="x86_64" type="rpm" size="400478">
+    <location>package-pool/bash-doc-3.2-147.14.22.1.7400.0.PTF.898880.x86_64.rpm</location>
+    <checksum type="sha1">de5d0efdd75a259c1169b73ad57c20d5b0afae85</checksum>
+  </package>
+  <package name="libcurl4" version="7.19.7-1.20.31.1" arch="x86_64" type="rpm" size="141419">
+    <location>package-pool/libcurl4-7.19.7-1.20.31.1.x86_64.rpm</location>
+    <checksum type="sha1">234cfab4c1f1609721462d604ee82f184caac005</checksum>
+  </package>
+  <package name="audit-audispd-plugins" version="1.8-0.28.1" arch="x86_64" type="rpm" size="40178">
+    <location>package-pool/audit-audispd-plugins-1.8-0.28.1.x86_64.rpm</location>
+    <checksum type="sha1">00eaa4ba55d30e2b4ec4326743fed22e5dbbaa4b</checksum>
+  </package>
+  <package name="oracle-instantclient11.2-odbc" version="11.2.0.2.0-1" arch="x86_64" type="rpm" size="309630">
+    <location>package-pool/oracle-instantclient11.2-odbc-11.2.0.2.0.x86_64.rpm</location>
+    <checksum type="sha1">5025cc7d32b90b16d187e921483d9d4202b013e4</checksum>
+  </package>
+  <package name="yast2" version="2.17.121.1-0.5.1" arch="x86_64" type="rpm" size="688440">
+    <location>package-pool/yast2-2.17.121.1-0.5.1.x86_64.rpm</location>
+    <checksum type="sha1">9c16510cd323c085cb0335f162ff7507659ea2b5</checksum>
+  </package>
+  <package name="vmware-tools-vsock-common" version="0:10.0.0-5.sles11" arch="x86_64" type="rpm" size="32557">
+    <location>package-pool/vmware-tools-vsock-common-10.0.0-5.sles11.x86_64.rpm</location>
+    <checksum type="sha1">fc237f24430c52ac09f651fa898443d52f3d0ca9</checksum>
+  </package>
+  <package name="pam-modules" version="11-1.22.1" arch="x86_64" type="rpm" size="111355">
+    <location>package-pool/pam-modules-11-1.22.1.x86_64.rpm</location>
+    <checksum type="sha1">71bdc67521b3c06ef5612b2ae31c474e2474f217</checksum>
+  </package>
+  <package name="yast2-firewall" version="2.17.11-0.5.92" arch="noarch" type="rpm" size="85244">
+    <location>package-pool/yast2-firewall-2.17.11-0.5.92.noarch.rpm</location>
+    <checksum type="sha1">e1a25cd6f2fffeaac3b970bc388c698b45387a28</checksum>
+  </package>
+  <package name="SLES-for-VMware-release" version="11.2-1.267" arch="x86_64" type="rpm" size="16182">
+    <location>package-pool/SLES-for-VMware-release-11.2-1.267.x86_64.rpm</location>
+    <checksum type="sha1">681c59f5688827509f8fee0d683ceb4aec7359f9</checksum>
+  </package>
+  <package name="perl-WWW-Curl" version="4.09-2.1.72" arch="x86_64" type="rpm" size="53900">
+    <location>package-pool/perl-WWW-Curl-4.09-2.1.72.x86_64.rpm</location>
+    <checksum type="sha1">a3d98ef7e138aa23212b74c8b6b7a7ec447c3a4f</checksum>
+  </package>
+  <package name="hal" version="0.5.12-23.76.1" arch="x86_64" type="rpm" size="474378">
+    <location>package-pool/hal-0.5.12-23.76.1.x86_64.rpm</location>
+    <checksum type="sha1">11d7ae18bfd92cc98408d8a70d9463119bfabfea</checksum>
+  </package>
+  <package name="uuid-runtime" version="2.19.1-6.33.47.1" arch="x86_64" type="rpm" size="39270">
+    <location>package-pool/uuid-runtime-2.19.1-6.33.47.1.x86_64.rpm</location>
+    <checksum type="sha1">7e512c5ed288183579b9570e872c5b82d841fb7e</checksum>
+  </package>
+  <package name="openssh" version="5.1p1-41.69.1" arch="x86_64" type="rpm" size="644828">
+    <location>package-pool/openssh-5.1p1-41.69.1.x86_64.rpm</location>
+    <checksum type="sha1">20d89abee8b928091798f5a91ece0507db5b25af</checksum>
+  </package>
+  <package name="w3m" version="0.5.2-132.2.1" arch="x86_64" type="rpm" size="792566">
+    <location>package-pool/w3m-0.5.2-132.2.1.x86_64.rpm</location>
+    <checksum type="sha1">e577bfb8249fb7804379862a87b63c581a824d84</checksum>
+  </package>
+  <package name="python-base" version="2.6.9-0.31.1" arch="x86_64" type="rpm" size="4492576">
+    <location>package-pool/python-base-2.6.9-0.31.1.x86_64.rpm</location>
+    <checksum type="sha1">22d2a2baa138b8c4fef6ba32bfa28d6c68068fe0</checksum>
+  </package>
+  <package name="libnl" version="1.1-49.18" arch="x86_64" type="rpm" size="123262">
+    <location>package-pool/libnl-1.1-49.18.x86_64.rpm</location>
+    <checksum type="sha1">d7aed19a9aa1f71f60238d07eb33bb698f6aab07</checksum>
+  </package>
+  <package name="libtiff3" version="3.8.2-141.154.1" arch="x86_64" type="rpm" size="116906">
+    <location>package-pool/libtiff3-3.8.2-141.154.1.x86_64.rpm</location>
+    <checksum type="sha1">596f319c7ac9a3e188aff44f2f51d0a4c4d0e2e7</checksum>
+  </package>
+  <package name="yast2-country" version="2.17.52-0.5.1" arch="x86_64" type="rpm" size="105682">
+    <location>package-pool/yast2-country-2.17.52-0.5.1.x86_64.rpm</location>
+    <checksum type="sha1">14667b7816702644c9556829b501fa4db02b7c84</checksum>
+  </package>
+  <package name="dirmngr" version="1.0.2-1.19" arch="x86_64" type="rpm" size="223240">
+    <location>package-pool/dirmngr-1.0.2-1.19.x86_64.rpm</location>
+    <checksum type="sha1">ba1599702daea4a01b19f5da5f089a4d5f6233e4</checksum>
+  </package>
+  <package name="device-mapper" version="1.02.63-18.27.1" arch="x86_64" type="rpm" size="141852">
+    <location>package-pool/device-mapper-1.02.63-18.27.1.x86_64.rpm</location>
+    <checksum type="sha1">d8ad642afe39c21356609422257424bd1de424b0</checksum>
+  </package>
+  <package name="sg3_utils" version="1.31-1.19.1" arch="x86_64" type="rpm" size="496942">
+    <location>package-pool/sg3_utils-1.31-1.19.1.x86_64.rpm</location>
+    <checksum type="sha1">b56c5202ef19d622b31cf2bf7b09066f236aff63</checksum>
+  </package>
+  <package name="vmware-tools-plugins-vix" version="0:10.0.0-1.sles11" arch="x86_64" type="rpm" size="103389">
+    <location>package-pool/vmware-tools-plugins-vix-10.0.0-1.sles11.x86_64.rpm</location>
+    <checksum type="sha1">0acab18b76bb920d94fabf0808ac28e7839f2739</checksum>
+  </package>
+  <package name="coreutils-lang" version="8.12-6.25.29.1" arch="x86_64" type="rpm" size="1446268">
+    <location>package-pool/coreutils-lang-8.12-6.25.29.1.x86_64.rpm</location>
+    <checksum type="sha1">816f5737469f6d6d43da560950caab416e9b38f7</checksum>
+  </package>
+  <package name="findutils" version="4.4.0-38.26.1" arch="x86_64" type="rpm" size="328451">
+    <location>package-pool/findutils-4.4.0-38.26.1.x86_64.rpm</location>
+    <checksum type="sha1">be277a372235664745ff8cb613029d595a7df193</checksum>
+  </package>
+  <package name="vmware-lwis" version="6.1.0-3659711" arch="x86_64" type="rpm" size="11811402">
+    <location>package-pool/vmware-lwis-6.1.0-3659711.x86_64.rpm</location>
+    <checksum type="sha1">03e77071e30432a706271f328b0cc2867b4bd467</checksum>
+  </package>
+  <package name="parted" version="2.3-10.23.1" arch="x86_64" type="rpm" size="598654">
+    <location>package-pool/parted-2.3-10.23.1.x86_64.rpm</location>
+    <checksum type="sha1">cf3bfa69233443aa905da0383aca36e8341cb8ce</checksum>
+  </package>
+  <package name="rubygem-backports" version="2.3.0-1" arch="x86_64" type="rpm" size="45259">
+    <location>package-pool/rubygem-backports_2.3.0-1_x86_64.rpm</location>
+    <checksum type="sha1">37ab6c89185f4cdeba200c8d6e9a0538f0a5abdb</checksum>
+  </package>
+  <package name="yast2-country-data" version="2.17.52-0.5.1" arch="x86_64" type="rpm" size="44749">
+    <location>package-pool/yast2-country-data-2.17.52-0.5.1.x86_64.rpm</location>
+    <checksum type="sha1">b313c4dd0a3e9a62a2e97be26ff0371bee5ccf19</checksum>
+  </package>
+  <package name="openslp" version="1.2.0-172.22.1" arch="x86_64" type="rpm" size="61296">
+    <location>package-pool/openslp-1.2.0-172.22.1.x86_64.rpm</location>
+    <checksum type="sha1">7c864940a140332a86ea7102612d401734a7b56a</checksum>
+  </package>
+  <package name="libusb-0_1-4" version="0.1.12-139.1.1" arch="x86_64" type="rpm" size="27423">
+    <location>package-pool/libusb-0_1-4-0.1.12-139.1.1.x86_64.rpm</location>
+    <checksum type="sha1">3e192da623d701ce78c09e3b3aab8e715d338e21</checksum>
+  </package>
+  <package name="cpio-lang" version="2.9-75.76.1" arch="x86_64" type="rpm" size="56707">
+    <location>package-pool/cpio-lang-2.9-75.76.1.x86_64.rpm</location>
+    <checksum type="sha1">60001ed2c9989dfb4189f2e641f323b8c300edcd</checksum>
+  </package>
+  <package name="audit" version="1.8-0.30.1" arch="x86_64" type="rpm" size="228209">
+    <location>package-pool/audit-1.8-0.30.1.x86_64.rpm</location>
+    <checksum type="sha1">2872bb23bd68b8ae746351797bf3dd8273dbf727</checksum>
+  </package>
+  <package name="haveged" version="1.3-0.6.1" arch="x86_64" type="rpm" size="45090">
+    <location>package-pool/haveged-1.3-0.6.1.x86_64.rpm</location>
+    <checksum type="sha1">a4f4d553401c5870f199612dec9b06f89371e825</checksum>
+  </package>
+  <package name="libldap-2_4-2" version="2.4.26-0.16.1" arch="x86_64" type="rpm" size="223146">
+    <location>package-pool/libldap-2_4-2-2.4.26-0.16.1.x86_64.rpm</location>
+    <checksum type="sha1">47ff5370fbc97bcbe2cf8e5f44e0284d894fa4c2</checksum>
+  </package>
+  <package name="branding-SLES" version="11-3.20.30" arch="noarch" type="rpm" size="86022">
+    <location>package-pool/branding-SLES-11-3.20.30.noarch.rpm</location>
+    <checksum type="sha1">27f1bbe7c2f2934586a902fd0b1913a5eb633ac6</checksum>
+  </package>
+  <package name="apache2-utils" version="2.2.12-1.48.1" arch="x86_64" type="rpm" size="125302">
+    <location>package-pool/apache2-utils-2.2.12-1.48.1.x86_64.rpm</location>
+    <checksum type="sha1">345b1cbe22abdd83144d2e9b65d6f14e6f064321</checksum>
+  </package>
+  <package name="libcap2" version="2.11-2.17.1" arch="x86_64" type="rpm" size="11266">
+    <location>package-pool/libcap2-2.11-2.17.1.x86_64.rpm</location>
+    <checksum type="sha1">4421fb2ff34dacada56e0abac4039f0827f1fc70</checksum>
+  </package>
+  <package name="baekmuk-ttf" version="2.1-560.20" arch="noarch" type="rpm" size="9825957">
+    <location>package-pool/baekmuk-ttf-2.1-560.20.noarch.rpm</location>
+    <checksum type="sha1">a8b58e3d4aa4d977d56f82f1490c88d0c4122e72</checksum>
+  </package>
+  <package name="gdbm" version="1.8.3-371.83" arch="x86_64" type="rpm" size="25684">
+    <location>package-pool/gdbm-1.8.3-371.83.x86_64.rpm</location>
+    <checksum type="sha1">3a493c62bcc5d7c027f8e59c639b7e3d3f16fe1c</checksum>
+  </package>
+  <package name="yast2-dbus-client" version="2.17.0-0.1.65" arch="x86_64" type="rpm" size="27708">
+    <location>package-pool/yast2-dbus-client-2.17.0-0.1.65.x86_64.rpm</location>
+    <checksum type="sha1">ae89bd565ac92cdccafaaeeff2fab88b71386a79</checksum>
+  </package>
+  <package name="permissions" version="2013.1.7-0.3.1" arch="x86_64" type="rpm" size="25264">
+    <location>package-pool/permissions-2013.1.7-0.3.1.x86_64.rpm</location>
+    <checksum type="sha1">83e5cab8f2785c8610f81893c955f139f6e8812b</checksum>
+  </package>
+  <package name="FZSongTi" version="0.20040419-1.17" arch="noarch" type="rpm" size="9833651">
+    <location>package-pool/FZSongTi-0.20040419-1.17.noarch.rpm</location>
+    <checksum type="sha1">4cbad780111cd19f8ae1e36377e87967cfa0b0a2</checksum>
+  </package>
+  <package name="gpg2" version="2.0.9-25.33.37.6" arch="x86_64" type="rpm" size="1210404">
+    <location>package-pool/gpg2-2.0.9-25.33.37.6.x86_64.rpm</location>
+    <checksum type="sha1">24163daa8ac68fba42fa3cd94cfa269013990d09</checksum>
+  </package>
+  <package name="yast2-ldap" version="2.17.7-0.5.1" arch="x86_64" type="rpm" size="114108">
+    <location>package-pool/yast2-ldap-2.17.7-0.5.1.x86_64.rpm</location>
+    <checksum type="sha1">d090c3412f73aa864861ce2e1ca60a40ebe03908</checksum>
+  </package>
+</packages>
