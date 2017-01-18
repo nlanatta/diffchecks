@@ -44,6 +44,10 @@
     <location>package-pool/pciutils-ids-2011.11.24-0.4.1.noarch.rpm</location>
     <checksum type="sha1">bf46fa2b06b56f9feec0f93c80a5cc0ed8a45201</checksum>
   </package>
+  <package name="vmware-studio-vami-service-core" version="2.6.0.2-0" arch="x86_64" type="rpm" size="559460">
+    <location>package-pool/vmware-studio-vami-service-core_2.6.0.2-1484750739-0_x86_64.rpm</location>
+    <checksum type="sha1">873b1480cae55c3a3aa84a10c93af06fc86f375a</checksum>
+  </package>
   <package name="perl-X500-DN" version="0.29-78.22" arch="x86_64" type="rpm" size="14201">
     <location>package-pool/perl-X500-DN-0.29-78.22.x86_64.rpm</location>
     <checksum type="sha1">6cf03de62a3747f050cc1ff9b2952708f275b81d</checksum>
@@ -91,6 +95,10 @@
   <package name="mkinitrd" version="2.4.2-0.57.63.1" arch="x86_64" type="rpm" size="98094">
     <location>package-pool/mkinitrd-2.4.2-0.57.63.1.x86_64.rpm</location>
     <checksum type="sha1">2e1c2aabf337d5bde57ed73698066b3b32e90a96</checksum>
+  </package>
+  <package name="vmware-studio-appliance-config" version="2.6.0.2-170118064538" arch="noarch" type="rpm" size="12029">
+    <location>package-pool/vmware-studio-appliance-config_2.6.0.2-170118064538_noarch.rpm</location>
+    <checksum type="sha1">6d88f047ffb4ba270c848abb9cd370023c856b60</checksum>
   </package>
   <package name="openldap2-client" version="2.4.26-0.16.1" arch="x86_64" type="rpm" size="165198">
     <location>package-pool/openldap2-client-2.4.26-0.16.1.x86_64.rpm</location>
@@ -172,9 +180,9 @@
     <location>package-pool/ruby2.1-rubygem-builder-3.2.2-24.15.x86_64.rpm</location>
     <checksum type="sha1">ee9e3c8fa69487b4ba5df5f647ab075cbea37e2d</checksum>
   </package>
-  <package name="vmware-studio-appliance-config" version="2.6.0.2-170118042704" arch="noarch" type="rpm" size="12040">
-    <location>package-pool/vmware-studio-appliance-config_2.6.0.2-170118042704_noarch.rpm</location>
-    <checksum type="sha1">e4ce9010d52469a92601196af105c99a300a417a</checksum>
+  <package name="dhcp" version="4.2.4.P2-0.11.15.1" arch="x86_64" type="rpm" size="670506">
+    <location>package-pool/dhcp-4.2.4.P2-0.11.15.1.x86_64.rpm</location>
+    <checksum type="sha1">25ef8add36de8891f60f1249becbe54627c751fa</checksum>
   </package>
   <package name="release-notes-SLES-for-VMware" version="11.2.0.50-0.6.1" arch="x86_64" type="rpm" size="118279">
     <location>package-pool/release-notes-SLES-for-VMware-11.2.0.50-0.6.1.x86_64.rpm</location>
@@ -280,10 +288,6 @@
     <location>package-pool/unzip-6.00-11.7.1.x86_64.rpm</location>
     <checksum type="sha1">e4d4e1d81dae292bd18fe8dc75771d252bec2b52</checksum>
   </package>
-  <package name="bind-libs" version="9.9.6P1-0.22.1" arch="x86_64" type="rpm" size="1173872">
-    <location>package-pool/bind-libs-9.9.6P1-0.22.1.x86_64.rpm</location>
-    <checksum type="sha1">b921e9d744f336d90c169f03e9c4e6f7ba8a135a</checksum>
-  </package>
   <package name="vmware-tools-vmci-common" version="0:10.0.0-5.sles11" arch="x86_64" type="rpm" size="32334">
     <location>package-pool/vmware-tools-vmci-common-10.0.0-5.sles11.x86_64.rpm</location>
     <checksum type="sha1">4ed51acc198d064bb8c4c0c9d230a9c5429f2b22</checksum>
@@ -376,6 +380,10 @@
     <location>package-pool/glibc-32bit-2.11.3-17.45.66.1.x86_64.rpm</location>
     <checksum type="sha1">bf925b285ffd3ca12370f539a5275606443fc389</checksum>
   </package>
+  <package name="libxml2" version="2.7.6-0.44.1" arch="x86_64" type="rpm" size="620200">
+    <location>package-pool/libxml2-2.7.6-0.44.1.x86_64.rpm</location>
+    <checksum type="sha1">28cc3bca54630aa77cd3c370397a59a34f6ee03f</checksum>
+  </package>
   <package name="yast2-ldap-client" version="2.17.35-0.5.2" arch="noarch" type="rpm" size="109194">
     <location>package-pool/yast2-ldap-client-2.17.35-0.5.2.noarch.rpm</location>
     <checksum type="sha1">1adb4a881994c6c779080890f8085fa4849f73ff</checksum>
@@ -408,9 +416,17 @@
     <location>package-pool/pam-1.1.5-0.10.17.x86_64.rpm</location>
     <checksum type="sha1">18b79f5e0ebf8a670439eda9c13a1c9c315fc0c7</checksum>
   </package>
+  <package name="ntp" version="4.2.8p8-47.3" arch="x86_64" type="rpm" size="781545">
+    <location>package-pool/ntp-4.2.8p8-47.3.x86_64.rpm</location>
+    <checksum type="sha1">c5547d9ff8af3a84eab8e9561a84bd2261625144</checksum>
+  </package>
   <package name="VMware-vPostgres" version="9.0.22.0-2990740" arch="x86_64" type="rpm" size="8788955">
     <location>package-pool/VMware-vPostgres-9.0.22.0-2990740.x86_64.rpm</location>
     <checksum type="sha1">bb66c2f0aa58346fe019645fcfea92cc3a568da1</checksum>
+  </package>
+  <package name="timezone" version="2016i-0.42.1" arch="x86_64" type="rpm" size="362492">
+    <location>package-pool/timezone-2016i-0.42.1.x86_64.rpm</location>
+    <checksum type="sha1">aade2bd5ab962759ff58ebc9eea05776234da4d4</checksum>
   </package>
   <package name="yast2-registration" version="2.17.35.4-0.5.1" arch="noarch" type="rpm" size="171930">
     <location>package-pool/yast2-registration-2.17.35.4-0.5.1.noarch.rpm</location>
@@ -435,14 +451,6 @@
   <package name="pwdutils" version="3.2.15-0.13.1" arch="x86_64" type="rpm" size="362643">
     <location>package-pool/pwdutils-3.2.15-0.13.1.x86_64.rpm</location>
     <checksum type="sha1">02f48e7713d3b5269dce74cb206d050ac395c7fb</checksum>
-  </package>
-  <package name="dhcp-client" version="4.2.4.P2-0.11.13.1" arch="x86_64" type="rpm" size="708787">
-    <location>package-pool/dhcp-client-4.2.4.P2-0.11.13.1.x86_64.rpm</location>
-    <checksum type="sha1">800ada406cad797c4d4eca3b8fe2ee42bb4a3db2</checksum>
-  </package>
-  <package name="vmware-studio-vami-service-update" version="2.6.0.2-0" arch="x86_64" type="rpm" size="896790">
-    <location>package-pool/vmware-studio-vami-service-update_2.6.0.2-1484742427-0_x86_64.rpm</location>
-    <checksum type="sha1">b16a9d2bcf35aafc1518adcb43c3dc5a31ef9942</checksum>
   </package>
   <package name="popt" version="1.7-37.56.1" arch="x86_64" type="rpm" size="45796">
     <location>package-pool/popt-1.7-37.56.1.x86_64.rpm</location>
@@ -504,9 +512,9 @@
     <location>package-pool/sysconfig-0.71.48-0.7.1.x86_64.rpm</location>
     <checksum type="sha1">a46514c2caf8c578a2197982656fe749bd5fdd38</checksum>
   </package>
-  <package name="timezone" version="2016a-0.14.2" arch="x86_64" type="rpm" size="352157">
-    <location>package-pool/timezone-2016a-0.14.2.x86_64.rpm</location>
-    <checksum type="sha1">2007d60635e8e9c0ae79daeb7a4de4a241991e11</checksum>
+  <package name="openssl-certs" version="2.7-0.6.1" arch="noarch" type="rpm" size="181229">
+    <location>package-pool/openssl-certs-2.7-0.6.1.noarch.rpm</location>
+    <checksum type="sha1">bd3faef84a53e8af960b5aabec3ab965960e0fee</checksum>
   </package>
   <package name="cyrus-sasl" version="2.1.22-182.20.1" arch="x86_64" type="rpm" size="321340">
     <location>package-pool/cyrus-sasl-2.1.22-182.20.1.x86_64.rpm</location>
@@ -560,9 +568,9 @@
     <location>package-pool/rubygem-zip_2.0.2-1_x86_64.rpm</location>
     <checksum type="sha1">f3204936d3c63e0664b8e1d4ac75381798d068db</checksum>
   </package>
-  <package name="kernel-default" version="3.0.101-0.7.37.1" arch="x86_64" type="rpm" size="21407422">
-    <location>package-pool/kernel-default-3.0.101-0.7.37.1.x86_64.rpm</location>
-    <checksum type="sha1">460b2a72189496a1bfd0d02ad506a41aa362c063</checksum>
+  <package name="openssl" version="0.9.8j-0.102.2" arch="x86_64" type="rpm" size="547735">
+    <location>package-pool/openssl-0.9.8j-0.102.2.x86_64.rpm</location>
+    <checksum type="sha1">118511e4bcbd556c437f838f4332ff5dd4fa331a</checksum>
   </package>
   <package name="ypbind" version="1.22-1.17" arch="x86_64" type="rpm" size="38608">
     <location>package-pool/ypbind-1.22-1.17.x86_64.rpm</location>
@@ -640,6 +648,10 @@
     <location>package-pool/syslog-collector-5.5.0-713.noarch.rpm</location>
     <checksum type="sha1">8aa99cd5be651d61a9749ecc5c1f6c70f448a2b6</checksum>
   </package>
+  <package name="libxml2-python" version="2.7.6-0.44.4" arch="x86_64" type="rpm" size="165022">
+    <location>package-pool/libxml2-python-2.7.6-0.44.4.x86_64.rpm</location>
+    <checksum type="sha1">ef3a198dd430455d58051772a8b9962972f8e446</checksum>
+  </package>
   <package name="rubygem-libxml-ruby" version="2.2.2-1" arch="x86_64" type="rpm" size="945431">
     <location>package-pool/rubygem-libxml-ruby_2.2.2-1_x86_64.rpm</location>
     <checksum type="sha1">3061c8ad1a8d87d034516e3106c615106fa5b14d</checksum>
@@ -680,6 +692,10 @@
     <location>package-pool/pam_vc_1.0-1_x86_64.rpm</location>
     <checksum type="sha1">6adb2f610d82afb2b082bfd713de51b8073e4203</checksum>
   </package>
+  <package name="bind-libs" version="9.9.6P1-0.33.1" arch="x86_64" type="rpm" size="1174486">
+    <location>package-pool/bind-libs-9.9.6P1-0.33.1.x86_64.rpm</location>
+    <checksum type="sha1">5d33c7bb9ddfbba5f78421bbd361b165dabad0a5</checksum>
+  </package>
   <package name="vmware-studio-vami-tools" version="2.6.0.2-1191928" arch="x86_64" type="rpm" size="2399138">
     <location>package-pool/vmware-studio-vami-tools_2.6.0.2-1191928_x86_64.rpm</location>
     <checksum type="sha1">92712ea390db52ed6731a7b346b195bd5ef11ecd</checksum>
@@ -700,6 +716,10 @@
     <location>package-pool/libncurses5-32bit-5.6-90.55.x86_64.rpm</location>
     <checksum type="sha1">cdcbb495e0444d6fe6edfd82fcd090f7cf8474cb</checksum>
   </package>
+  <package name="vmware-studio-vami-service-network" version="2.6.0.2-0" arch="x86_64" type="rpm" size="575609">
+    <location>package-pool/vmware-studio-vami-service-network_2.6.0.2-1484750739-0_x86_64.rpm</location>
+    <checksum type="sha1">8ee9dcf220cd7ea6ca901b2ed51a4375207e801d</checksum>
+  </package>
   <package name="initviocons" version="0.5-55.21" arch="x86_64" type="rpm" size="25210">
     <location>package-pool/initviocons-0.5-55.21.x86_64.rpm</location>
     <checksum type="sha1">019a7843f00dab3640cebc9e41b37c3f0ef68be0</checksum>
@@ -715,6 +735,10 @@
   <package name="vmware-studio-vami-service-virtualcenter" version="5.5.0-4923587" arch="x86_64" type="rpm" size="1182077">
     <location>package-pool/vmware-studio-vami-service-virtualcenter-5.5.0-4923587.x86_64.rpm</location>
     <checksum type="sha1">f5556a9edd1ba79e7ea6d87413098165fb88fef2</checksum>
+  </package>
+  <package name="kernel-default-base" version="3.0.101-0.7.44.1" arch="x86_64" type="rpm" size="13892431">
+    <location>package-pool/kernel-default-base-3.0.101-0.7.44.1.x86_64.rpm</location>
+    <checksum type="sha1">83346c44821aca33fdd9be9a0705a484f526a548</checksum>
   </package>
   <package name="irqbalance" version="0.55-120.32.1" arch="x86_64" type="rpm" size="21574">
     <location>package-pool/irqbalance-0.55-120.32.1.x86_64.rpm</location>
@@ -732,9 +756,9 @@
     <location>package-pool/vsphere-client-5.5.0-4912130.noarch.rpm</location>
     <checksum type="sha1">5090eb68160da73816d790ca3eb84fb138869696</checksum>
   </package>
-  <package name="dhcp" version="4.2.4.P2-0.11.13.1" arch="x86_64" type="rpm" size="670370">
-    <location>package-pool/dhcp-4.2.4.P2-0.11.13.1.x86_64.rpm</location>
-    <checksum type="sha1">e293ea8afcae5813ce87a4e472f7cc42d4c92c53</checksum>
+  <package name="perl-Socket6" version="0.22-1.24.1" arch="x86_64" type="rpm" size="24031">
+    <location>package-pool/perl-Socket6-0.22-1.24.1.x86_64.rpm</location>
+    <checksum type="sha1">237df321234f76952a0e5b26b55ce93991b11bd8</checksum>
   </package>
   <package name="yast2-theme-SLES-for-VMware" version="2.17.20-0.18.9" arch="noarch" type="rpm" size="2266328">
     <location>package-pool/yast2-theme-SLES-for-VMware-2.17.20-0.18.9.noarch.rpm</location>
@@ -751,10 +775,6 @@
   <package name="yast2-perl-bindings" version="2.17.2-1.32.121" arch="x86_64" type="rpm" size="100506">
     <location>package-pool/yast2-perl-bindings-2.17.2-1.32.121.x86_64.rpm</location>
     <checksum type="sha1">2fc79f6671d1533be22540b07afb91e7782c0def</checksum>
-  </package>
-  <package name="yast2-ntp-client" version="2.17.14-1.10.14" arch="noarch" type="rpm" size="83748">
-    <location>package-pool/yast2-ntp-client-2.17.14-1.10.14.noarch.rpm</location>
-    <checksum type="sha1">1d44925d50e0e93328d7af69f30cae5b2f2261c4</checksum>
   </package>
   <package name="libksba" version="1.0.4-1.16" arch="x86_64" type="rpm" size="104920">
     <location>package-pool/libksba-1.0.4-1.16.x86_64.rpm</location>
@@ -775,10 +795,6 @@
   <package name="libcom_err2" version="1.41.9-2.9.1" arch="x86_64" type="rpm" size="40962">
     <location>package-pool/libcom_err2-1.41.9-2.9.1.x86_64.rpm</location>
     <checksum type="sha1">b7c32188d6884a5c7a8beca9059f4a6fd010c900</checksum>
-  </package>
-  <package name="vmware-studio-vami-service-core" version="2.6.0.2-0" arch="x86_64" type="rpm" size="559472">
-    <location>package-pool/vmware-studio-vami-service-core_2.6.0.2-1484742425-0_x86_64.rpm</location>
-    <checksum type="sha1">97c8b48994f5944c71aeaa0e8e32dd1c7756a028</checksum>
   </package>
   <package name="less" version="424b-10.22" arch="x86_64" type="rpm" size="122811">
     <location>package-pool/less-424b-10.22.x86_64.rpm</location>
@@ -868,10 +884,6 @@
     <location>package-pool/gdb-7.3-0.6.1.x86_64.rpm</location>
     <checksum type="sha1">ae1b766e3ad91b38b64a8175fd65da9db21a1cd6</checksum>
   </package>
-  <package name="bind-utils" version="9.9.6P1-0.22.1" arch="x86_64" type="rpm" size="268767">
-    <location>package-pool/bind-utils-9.9.6P1-0.22.1.x86_64.rpm</location>
-    <checksum type="sha1">f647c3f8f7063f6c514e3bda7a55fdb465cd6381</checksum>
-  </package>
   <package name="sharutils" version="4.6.3-3.19" arch="x86_64" type="rpm" size="166679">
     <location>package-pool/sharutils-4.6.3-3.19.x86_64.rpm</location>
     <checksum type="sha1">acc011a2552e10f701b7b737b6e49069c9a34b4d</checksum>
@@ -879,10 +891,6 @@
   <package name="vmware-tools-plugins-timeSync" version="0:10.0.0-1.sles11" arch="x86_64" type="rpm" size="10827">
     <location>package-pool/vmware-tools-plugins-timeSync-10.0.0-1.sles11.x86_64.rpm</location>
     <checksum type="sha1">8dbf4e407adf6cbe370155b9a27be100b2b287bd</checksum>
-  </package>
-  <package name="libopenssl0_9_8" version="0.9.8j-0.80.1" arch="x86_64" type="rpm" size="781797">
-    <location>package-pool/libopenssl0_9_8-0.9.8j-0.80.1.x86_64.rpm</location>
-    <checksum type="sha1">70ce30b9fbc2214ddb5332b44448bf82666a01e7</checksum>
   </package>
   <package name="ruby19" version="1.9.2.p290-2.1" arch="x86_64" type="rpm" size="3871125">
     <location>package-pool/ruby19-1.9.2.p290-2.1.x86_64.rpm</location>
@@ -896,6 +904,10 @@
     <location>package-pool/VMware-vPostgres-server-extensions-9.0.22.0-2990740.x86_64.rpm</location>
     <checksum type="sha1">78d112aaa2f17bec7f989d96267a8c9f669e2d45</checksum>
   </package>
+  <package name="yast2-ntp-client" version="2.17.14.1-1.12.1" arch="noarch" type="rpm" size="84070">
+    <location>package-pool/yast2-ntp-client-2.17.14.1-1.12.1.noarch.rpm</location>
+    <checksum type="sha1">b41d18dbcc8b62e08b017b25fea36b9979e986c0</checksum>
+  </package>
   <package name="libexpat1" version="2.0.1-88.34.1" arch="x86_64" type="rpm" size="62174">
     <location>package-pool/libexpat1-2.0.1-88.34.1.x86_64.rpm</location>
     <checksum type="sha1">54b6ced026c82d7aaf7fc9814b883198ade28d5b</checksum>
@@ -904,13 +916,13 @@
     <location>package-pool/brocade-firmware-3.0.2.2-0.8.19.noarch.rpm</location>
     <checksum type="sha1">18739bd015282dd3afd1ffbbff506053b9f16b78</checksum>
   </package>
-  <package name="vasecurity" version="5.5.0.30500-1" arch="noarch" type="rpm" size="345629">
-    <location>package-pool/vasecurity-5.5.0.30500-170118042718.noarch.rpm</location>
-    <checksum type="sha1">c05add91f6e6ffdf7695c0ace97907a373d21582</checksum>
-  </package>
   <package name="libgmodule-2_0-0" version="2.22.5-0.8.10.2" arch="x86_64" type="rpm" size="38617">
     <location>package-pool/libgmodule-2_0-0-2.22.5-0.8.10.2.x86_64.rpm</location>
     <checksum type="sha1">afb240b4709027522aaa367639ac04992ac2fc1c</checksum>
+  </package>
+  <package name="vmware-studio-init" version="2.6.0.2-170118064538" arch="noarch" type="rpm" size="15602">
+    <location>package-pool/vmware-studio-init_2.6.0.2-170118064538_i386.rpm</location>
+    <checksum type="sha1">135ecc5c6831e27255215ddc7b4238e9c41742ee</checksum>
   </package>
   <package name="glib2-branding-SLES" version="2.16-47.3" arch="noarch" type="rpm" size="5990">
     <location>package-pool/glib2-branding-SLES-2.16-47.3.noarch.rpm</location>
@@ -967,6 +979,10 @@
   <package name="multipath-tools" version="0.4.9-0.70.72.1" arch="x86_64" type="rpm" size="201313">
     <location>package-pool/multipath-tools-0.4.9-0.70.72.1.x86_64.rpm</location>
     <checksum type="sha1">cb6e8e1f1ce76ca8d3a47d13ed392f572eddfbf1</checksum>
+  </package>
+  <package name="kernel-default" version="3.0.101-0.7.44.1" arch="x86_64" type="rpm" size="21417341">
+    <location>package-pool/kernel-default-3.0.101-0.7.44.1.x86_64.rpm</location>
+    <checksum type="sha1">76f2f4a331ee5646d53b61df993a8ec3aded18ae</checksum>
   </package>
   <package name="ruby2.1-rubygem-zip" version="2.0.2-2.14" arch="x86_64" type="rpm" size="100067">
     <location>package-pool/ruby2.1-rubygem-zip-2.0.2-2.14.x86_64.rpm</location>
@@ -1180,10 +1196,6 @@
     <location>package-pool/VMware-vpxd-tomcat-5.5.0-4935376.x86_64.rpm</location>
     <checksum type="sha1">64c3fe41634cf730bd2e157f8a7a35fdc0f7d82a</checksum>
   </package>
-  <package name="vmware-studio-vami-service-system" version="2.6.0.2-0" arch="x86_64" type="rpm" size="547733">
-    <location>package-pool/vmware-studio-vami-service-system_2.6.0.2-1484742426-0_x86_64.rpm</location>
-    <checksum type="sha1">655f827ebb0db2137f4e4f496be2df73223f6b62</checksum>
-  </package>
   <package name="m4" version="1.4.12-1.19" arch="x86_64" type="rpm" size="238850">
     <location>package-pool/m4-1.4.12-1.19.x86_64.rpm</location>
     <checksum type="sha1">394d96214dd4f8c52b9e712950f893219c5adaa5</checksum>
@@ -1220,10 +1232,6 @@
     <location>package-pool/zip-3.0-4.7.1.x86_64.rpm</location>
     <checksum type="sha1">bb44d70ddf003d513c41a6c73817e6f2def82d5b</checksum>
   </package>
-  <package name="dhcp-server" version="4.2.4.P2-0.11.13.1" arch="x86_64" type="rpm" size="1015918">
-    <location>package-pool/dhcp-server-4.2.4.P2-0.11.13.1.x86_64.rpm</location>
-    <checksum type="sha1">d95cbce3c1bc426c557764d1ef8c57ddcf913076</checksum>
-  </package>
   <package name="vmware-esx-netdumper" version="5.5.0-0.0.4912127" arch="i386" type="rpm" size="422424">
     <location>package-pool/vmware-esx-netdumper-5.5.0-0.0.4912127.i386.rpm</location>
     <checksum type="sha1">4a830a255306bcb9c576045caffc4a4aca82407b</checksum>
@@ -1251,14 +1259,6 @@
   <package name="libreiserfs" version="0.3.0.5-143.3" arch="x86_64" type="rpm" size="43639">
     <location>package-pool/libreiserfs-0.3.0.5-143.3.x86_64.rpm</location>
     <checksum type="sha1">1a86cba0dc997f8f5e41686465009660c73f9cbf</checksum>
-  </package>
-  <package name="openssl-certs" version="1.96-0.4.1" arch="noarch" type="rpm" size="160933">
-    <location>package-pool/openssl-certs-1.96-0.4.1.noarch.rpm</location>
-    <checksum type="sha1">3da6248f135517a02455dd5789f3b974aa55103b</checksum>
-  </package>
-  <package name="openssl" version="0.9.8j-0.80.1" arch="x86_64" type="rpm" size="542568">
-    <location>package-pool/openssl-0.9.8j-0.80.1.x86_64.rpm</location>
-    <checksum type="sha1">01fd4fbf93db3107c7e9853509222511b85d73f7</checksum>
   </package>
   <package name="libtirpc1" version="0.2.1-1.5.1" arch="x86_64" type="rpm" size="71667">
     <location>package-pool/libtirpc1-0.2.1-1.5.1.x86_64.rpm</location>
@@ -1288,6 +1288,10 @@
     <location>package-pool/filesystem-11.1-3.5.3.x86_64.rpm</location>
     <checksum type="sha1">93cf6acab6c7c42abc4a36f90501d29159af02ad</checksum>
   </package>
+  <package name="vmware-studio-vami-service-update" version="2.6.0.2-0" arch="x86_64" type="rpm" size="896780">
+    <location>package-pool/vmware-studio-vami-service-update_2.6.0.2-1484750741-0_x86_64.rpm</location>
+    <checksum type="sha1">6ae0a007e7dc611dbbee80e8d2f5c5fb3832ee8e</checksum>
+  </package>
   <package name="vmware-tools-vmxnet-kmp-default" version="0:2.1.0.0_3.0.13_0.27-5.sles11" arch="x86_64" type="rpm" size="18880">
     <location>package-pool/vmware-tools-vmxnet-kmp-default-2.1.0.0_3.0.13_0.27-5.sles11.x86_64.rpm</location>
     <checksum type="sha1">fb7d1df7076a89d654f420e8063322f16d10ffdd</checksum>
@@ -1308,13 +1312,13 @@
     <location>package-pool/sqlite3-3.7.6.3-1.4.4.1.x86_64.rpm</location>
     <checksum type="sha1">bd41fb44240ed9f597ae58d361233b6ea5cae2f4</checksum>
   </package>
+  <package name="dhcp-server" version="4.2.4.P2-0.11.15.1" arch="x86_64" type="rpm" size="1016087">
+    <location>package-pool/dhcp-server-4.2.4.P2-0.11.15.1.x86_64.rpm</location>
+    <checksum type="sha1">a6f34c841cc55292449677617b24018bafef4612</checksum>
+  </package>
   <package name="vmware-studio-vami-servicebase" version="2.6.0.2-1191928" arch="x86_64" type="rpm" size="3331">
     <location>package-pool/vmware-studio-vami-servicebase_2.6.0.2-1191928_x86_64.rpm</location>
     <checksum type="sha1">0946692b63fcf9cb1e710ede8da7e1c11e4d0890</checksum>
-  </package>
-  <package name="kernel-default-base" version="3.0.101-0.7.37.1" arch="x86_64" type="rpm" size="13885144">
-    <location>package-pool/kernel-default-base-3.0.101-0.7.37.1.x86_64.rpm</location>
-    <checksum type="sha1">2837572894cb47e8772f6949dc65324f96c58670</checksum>
   </package>
   <package name="opensc" version="0.11.6-5.27.1" arch="x86_64" type="rpm" size="503870">
     <location>package-pool/opensc-0.11.6-5.27.1.x86_64.rpm</location>
@@ -1327,6 +1331,10 @@
   <package name="perl-base" version="5.10.0-64.61.61.1" arch="x86_64" type="rpm" size="1150970">
     <location>package-pool/perl-base-5.10.0-64.61.61.1.x86_64.rpm</location>
     <checksum type="sha1">22485493cc55ff93cfc22714b1e71191bbb05659</checksum>
+  </package>
+  <package name="dhcp-client" version="4.2.4.P2-0.11.15.1" arch="x86_64" type="rpm" size="708923">
+    <location>package-pool/dhcp-client-4.2.4.P2-0.11.15.1.x86_64.rpm</location>
+    <checksum type="sha1">0dbf4862d538c6abee05ca714bf83139a39e625a</checksum>
   </package>
   <package name="PolicyKit-doc" version="0.9-14.39.2" arch="x86_64" type="rpm" size="342854">
     <location>package-pool/PolicyKit-doc-0.9-14.39.2.x86_64.rpm</location>
@@ -1348,10 +1356,6 @@
     <location>package-pool/ncurses-utils-5.6-90.55.x86_64.rpm</location>
     <checksum type="sha1">71fe66053cb5b966be949383b0586cbab418ba97</checksum>
   </package>
-  <package name="vmware-studio-init" version="2.6.0.2-170118042704" arch="noarch" type="rpm" size="15614">
-    <location>package-pool/vmware-studio-init_2.6.0.2-170118042704_i386.rpm</location>
-    <checksum type="sha1">efcaca4802c94b789c169acbcae74243ee69f99a</checksum>
-  </package>
   <package name="gpg2-lang" version="2.0.9-25.33.37.6" arch="x86_64" type="rpm" size="481953">
     <location>package-pool/gpg2-lang-2.0.9-25.33.37.6.x86_64.rpm</location>
     <checksum type="sha1">a6415840141d6b80c649b6c9f4a6b2ad336943d4</checksum>
@@ -1367,6 +1371,10 @@
   <package name="master-boot-code" version="1.14-70.11" arch="i586" type="rpm" size="4835">
     <location>package-pool/master-boot-code-1.14-70.11.i586.rpm</location>
     <checksum type="sha1">b72ba2bd2add7ee40032174edbf994968865d16f</checksum>
+  </package>
+  <package name="vasecurity" version="5.5.0.30500-1" arch="noarch" type="rpm" size="345613">
+    <location>package-pool/vasecurity-5.5.0.30500-170118064551.noarch.rpm</location>
+    <checksum type="sha1">92dd15336eeb49ac772e4a4164baf78154200dd0</checksum>
   </package>
   <package name="VMware-vpxd-client" version="5.5.0-4935376" arch="x86_64" type="rpm" size="380363172">
     <location>package-pool/VMware-vpxd-client-5.5.0-4935376.x86_64.rpm</location>
@@ -1399,10 +1407,6 @@
   <package name="glibc-locale" version="2.11.3-17.45.66.1" arch="x86_64" type="rpm" size="11907110">
     <location>package-pool/glibc-locale-2.11.3-17.45.66.1.x86_64.rpm</location>
     <checksum type="sha1">4d67ed85944f8762d45eee11f480421c7a19b518</checksum>
-  </package>
-  <package name="ntp" version="4.2.4p8-1.29.32.1" arch="x86_64" type="rpm" size="476533">
-    <location>package-pool/ntp-4.2.4p8-1.29.32.1.x86_64.rpm</location>
-    <checksum type="sha1">63ab528fd023ce8f50dabb1e2d700d921185f465</checksum>
   </package>
   <package name="yast2-online-update" version="2.17.21-0.1.89" arch="noarch" type="rpm" size="48187">
     <location>package-pool/yast2-online-update-2.17.21-0.1.89.noarch.rpm</location>
@@ -1448,10 +1452,6 @@
     <location>package-pool/yast2-hardware-detection-2.17.2-2.7.1.x86_64.rpm</location>
     <checksum type="sha1">e2e818593125d4fa80ec4134d65cc56c7141ec5a</checksum>
   </package>
-  <package name="libxml2" version="2.7.6-0.25.1" arch="x86_64" type="rpm" size="615131">
-    <location>package-pool/libxml2-2.7.6-0.25.1.x86_64.rpm</location>
-    <checksum type="sha1">d9a4b643f76f8f6b01fdec38557cca4fd0314cc7</checksum>
-  </package>
   <package name="kernel-firmware" version="20110923-0.19.23.1" arch="noarch" type="rpm" size="12851780">
     <location>package-pool/kernel-firmware-20110923-0.19.23.1.noarch.rpm</location>
     <checksum type="sha1">0316856460623f25865fdd0ff80bb2f70477e8e8</checksum>
@@ -1475,6 +1475,10 @@
   <package name="checkmedia" version="2.2-1.22" arch="x86_64" type="rpm" size="17155">
     <location>package-pool/checkmedia-2.2-1.22.x86_64.rpm</location>
     <checksum type="sha1">285153daf1c76cb938511e9d2feaf71f25404761</checksum>
+  </package>
+  <package name="bind-utils" version="9.9.6P1-0.33.1" arch="x86_64" type="rpm" size="269311">
+    <location>package-pool/bind-utils-9.9.6P1-0.33.1.x86_64.rpm</location>
+    <checksum type="sha1">bdde21fcdb90b1e447d7c25ef43bdd3a0f9e436a</checksum>
   </package>
   <package name="vmware-studio-vami-cimom" version="2.6.0.2-1191928" arch="x86_64" type="rpm" size="1729916">
     <location>package-pool/vmware-studio-vami-cimom_2.6.0.2-1191928_x86_64.rpm</location>
@@ -1512,10 +1516,6 @@
     <location>package-pool/libreadline6-6.1-1.4.x86_64.rpm</location>
     <checksum type="sha1">12b2f3d3141da662dac0ab4c29ec5e80cc4541c9</checksum>
   </package>
-  <package name="libxml2-python" version="2.7.6-0.25.1" arch="x86_64" type="rpm" size="164968">
-    <location>package-pool/libxml2-python-2.7.6-0.25.1.x86_64.rpm</location>
-    <checksum type="sha1">c4a1442e921f92431e48215c08c8d5ddd2e77260</checksum>
-  </package>
   <package name="pam-config" version="0.79-2.5.58" arch="x86_64" type="rpm" size="109966">
     <location>package-pool/pam-config-0.79-2.5.58.x86_64.rpm</location>
     <checksum type="sha1">68cf39dea3de69e42a811ed8fd278dea06cc1f98</checksum>
@@ -1524,6 +1524,10 @@
     <location>package-pool/tunctl-20070815-10.22.x86_64.rpm</location>
     <checksum type="sha1">ec0bfdb90f00a79244e242e49c6a7d64b7f25515</checksum>
   </package>
+  <package name="libopenssl0_9_8" version="0.9.8j-0.102.2" arch="x86_64" type="rpm" size="790088">
+    <location>package-pool/libopenssl0_9_8-0.9.8j-0.102.2.x86_64.rpm</location>
+    <checksum type="sha1">f04f06cfd3ff058c8f68154bb091e8e77db28348</checksum>
+  </package>
   <package name="lcms" version="1.17-77.16.1" arch="x86_64" type="rpm" size="50008">
     <location>package-pool/lcms-1.17-77.16.1.x86_64.rpm</location>
     <checksum type="sha1">f53119fa78dea9a6d48186eccf612dec69897cc4</checksum>
@@ -1531,10 +1535,6 @@
   <package name="libffi5" version="3.0.9-7.1" arch="x86_64" type="rpm" size="17447">
     <location>package-pool/libffi5-3.0.9-7.1.x86_64.rpm</location>
     <checksum type="sha1">dfffaa17d3c36fd8460d6dafd73908d787cd0641</checksum>
-  </package>
-  <package name="vmware-studio-vami-service-network" version="2.6.0.2-0" arch="x86_64" type="rpm" size="575622">
-    <location>package-pool/vmware-studio-vami-service-network_2.6.0.2-1484742426-0_x86_64.rpm</location>
-    <checksum type="sha1">53413255a1ace5b85da4a01a9e6a6b01771cca21</checksum>
   </package>
   <package name="vmware-identity-sts" version="2.0.0-3967771" arch="noarch" type="rpm" size="62757258">
     <location>package-pool/vmware-identity-sts-2.0.0-3967771.noarch.rpm</location>
@@ -1679,6 +1679,10 @@
   <package name="branding-SLES" version="11-3.20.30" arch="noarch" type="rpm" size="86022">
     <location>package-pool/branding-SLES-11-3.20.30.noarch.rpm</location>
     <checksum type="sha1">27f1bbe7c2f2934586a902fd0b1913a5eb633ac6</checksum>
+  </package>
+  <package name="vmware-studio-vami-service-system" version="2.6.0.2-0" arch="x86_64" type="rpm" size="547719">
+    <location>package-pool/vmware-studio-vami-service-system_2.6.0.2-1484750740-0_x86_64.rpm</location>
+    <checksum type="sha1">b03debde7e358e2b37ff1ba8a68e8e6980704474</checksum>
   </package>
   <package name="apache2-utils" version="2.2.12-1.48.1" arch="x86_64" type="rpm" size="125302">
     <location>package-pool/apache2-utils-2.2.12-1.48.1.x86_64.rpm</location>
